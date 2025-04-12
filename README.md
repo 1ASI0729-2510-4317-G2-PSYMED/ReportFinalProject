@@ -23,8 +23,16 @@
   </thead>
   <tbody>
     <tr>
-      <td>integrante</td>
-      <td>cod</td>
+      <td>Aru Acevedo, Yair Christofer</td>
+      <td>U202125984</td>
+    </tr>
+    <tr>
+        <td>Astuyauri Herencia, Jhomar Cristian Elias</td>
+        <td>U202320052</td>
+    </tr>
+    <tr>
+      <td>Ccotarma Ttito, Eduardo Eusebio Sihuar  </td>
+      <td>U20211C736</td>
     </tr>
     <tr>
       <td>integrante</td>
