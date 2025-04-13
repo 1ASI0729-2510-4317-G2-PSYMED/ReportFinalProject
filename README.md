@@ -23,28 +23,28 @@
   </thead>
   <tbody>
     <tr>
-      <td>Aru Acevedo, Yair Christofer</td>
-      <td>U202125984</td>
+       <td>Aru Acevedo, Yair Christofer</td>
+       <td>U202125984</td>
     </tr>
     <tr>
         <td>Astuyauri Herencia, Jhomar Cristian Elias</td>
         <td>U202320052</td>
     </tr>
     <tr>
-      <td>Ccotarma Ttito, Eduardo Eusebio Sihuar  </td>
-      <td>U20211C736</td>
+       <td>Ccotarma Ttito, Eduardo Eusebio Sihuar  </td>
+       <td>U20211C736</td>
     </tr>
     <tr>
-      <td>integrante</td>
-      <td>cod</td>
+       <td>Chavez Uribe, Ario Joel </td>
+       <td>U202213468</td>
     </tr>
     <tr>
-      <td>integrante</td>
-      <td>cod</td>
+       <td>Seminario Castillo, Diego Vicente</td>
+       <td>u202412591</td>
     </tr>
      <tr>
-      <td>integrante</td>
-      <td>cod</td>
+      <td>Prudencio Alcantara, Joel</td>
+      <td>u20241d689</td>
     </tr>
   </tbody>
 </table>
