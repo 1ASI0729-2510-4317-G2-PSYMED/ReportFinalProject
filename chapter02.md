@@ -45,3 +45,23 @@ su bienestar emocional.
 </p>
 
 ### 2.3.5. As-is Scenario Mapping
+
+En la situación actual, tanto los profesionales de la salud mental como los 
+pacientes enfrentan una experiencia fragmentada y poco eficiente en el 
+manejo del tratamiento. Los médicos deben lidiar con registros manuales
+o sistemas poco integrados que consumen tiempo y dificultan el seguimiento
+clínico, mientras que los pacientes tiene un problema al momento de llevar
+tareas asignadas, no cuentan con herramientas que les permitan involucrarse activamente
+en su proceso de mejora. Esta falta de centralización y automatización 
+genera carga administrativa para los profesionales y desinformación o 
+desconexión para los pacientes, afectando la calidad y continuidad del 
+tratamiento.
+- **Segmento objetivo:** Profesionales de la salud mental:
+<p align="center">
+<img src="assets/chapter-2/AS-ISProfecional.jpg">
+</p>
+
+- **Segmento objetivo:** Pacientes de profesionales de la salud mental:
+<p align="center">
+<img src="assets/chapter-2/AS-ISPaciente.jpg">
+</p>
