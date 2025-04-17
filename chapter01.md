@@ -4,7 +4,7 @@
 
 ### 1.1.1. Descripción de la Startup
 
-PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimiento de pacientes en centros psiquiátricos. La aplicación facilita la comunicación continua entre psiquiatras y pacientes, permitiendo un monitoreo integral del progreso, el seguimiento personalizado de tratamientos, y la gestión eficiente de citas y notas clínicas en un entorno seguro y accesible. PsyMed se enfoca en mejorar la calidad de la atención al proporcionar herramientas que permiten a los profesionales de la salud mental mantenerse conectados con sus pacientes de manera efectiva y con información actualizada de manera activa.
+PsyMed es una plataforma web creada para optimizar la gestión del monitorio del estado de los pacientes en centros psiquiátricos. La plataforma permite la comunicación de manera continua entre los pacientes y sus psiquiatras, permitiendo un monitoreo completo del progreso de los tratamientos. Además, brindar una sistema que gestione las citas y notas clínicas. PsyMed busca mejorar la calidad de la atención de los usuarios proporcionandoles herramientas que permitan a los psiquiatras, poder mantenerse conectados con sus pacientes de manera efectiva y con información actualizada de manera constante.
 
 <table>
     <thead>
