@@ -25,3 +25,47 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
       </tr>
     </tbody>
 </table>
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+<table>
+    <thead>
+        <tr>
+            <th>Integrantes</th>
+            <th>Foto</th>
+            <th>Descripción del perfil</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Aru Acevedo, Yair Christofer</td>
+            <td><img src="assets/LogoUPC.png" alt="Foto de Yair" /></td>
+            <td>Estudiante de la carrera de ingenieria de Software en la UPC. Tiene conocimientos en los lenguajes de C++, Java, Python, Javascript y Typescript.</td>
+        </tr>
+        <tr>
+            <td>Astuyauri Herencia, Jhomar Cristian Elias</td>
+            <td><img src="assets/Jhomar.png" alt="Foto de Jhomar" /></td>
+            <td>Actualmente realizo mis prácticas preprofesionales como Technical Product Owner en Ticketmaster Perú, donde colaboro con equipos de desarrollo para mejorar productos digitales. He trabajado con Java y Angular en proyectos personales y he tenido la oportunidad de aportar en iniciativas Open Source de amigos. Me interesa profundizar en el flujo de trabajo detrás del desarrollo de software y aprender técnicas que me ayuden a ser un mejor desarrollador.</td>
+        </tr>
+        <tr>
+            <td>Ccotarma Ttito, Eduardo Eusebio Sihuar</td>
+            <td><img src="assets/Eduardo.png" alt="Foto de Eduardo" /></td>
+            <td>Soy estudiante de la carrera de Ing de software, Me gusta mucho el mundo de la informática, tecnología y los videojuegos. De vez en cuando diseño pequeños proyectos de juegos como replicar mecánicas o interfaces que me parecen interesantes. También me gusta viajar y la música. Estoy comprometido a apoyar al grupo lo mejor posible.</td>
+        </tr>
+        <tr>
+            <td>Chavez Uribe, Ario Joel</td>
+            <td><img src="assets/LogoUPC.png" alt="Foto de Ario" /></td>
+            <td>Estudiante de la carrera de ingenieria de Software</td>
+        </tr>
+        <tr>
+            <td>Seminario Castillo, Diego Vicente</td>
+            <td><img src="assets/LogoUPC.png" alt="Foto de Diego" /></td>
+            <td>Estudiante de la carrera de ingenieria de Software</td>
+        </tr>
+        <tr>
+            <td>Prudencio Alcantara, Joel</td>
+            <td><img src="assets/LogoUPC.png" alt="Foto de Joel" /></td>
+            <td>Estudiante de la carrera de ingenieria de Software</td>
+        </tr>
+    </tbody>
+</table>
