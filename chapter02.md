@@ -12,10 +12,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/psymed_logo.svg" alt="PsyMed"></td>
-    <td>TherapyNotes<br><img src="/assets/chapter02/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
-    <td>Teladoc<br><img src="/assets/chapter02/competidores/Teladoc.png" alt="Teladoc"></td>
-    <td>Talkspace<br><img src="/assets/chapter02/competidores/Talkspace.png" alt="Talkspace"></td>
+    <td>PsyMed<br><img src="/assets/chapter02/psymed_logo.svg" alt="PsyMed"></td>
+    <td>TherapyNotes<br><img src="/assets/chapter02/competitors/TherapyNotes.png" alt="TherapyNotes"></td>
+    <td>Teladoc<br><img src="/assets/chapter02/competitors/Teladoc.png" alt="Teladoc"></td>
+    <td>Talkspace<br><img src="/assets/chapter02/competitors/Talkspace.png" alt="Talkspace"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
