@@ -15,6 +15,13 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+**Landing Page:**
+- Title: PsyMed
+- Meta Tags: Para la búsqueda eficiente de nuestra plataforma usamos las siguientes tags:
+  - Description: Plataforma de gestión médica en salud mental para psiquiatras y pacientes.
+  - Keywords: Psiquiatras, Plataforma, Tratamientos mentales, Pacientes, Salud mental, Citas médicas, Psicologia, Psiquiatria, Gestion médica
+  - Author: OpenGG
+
 ### 4.2.4. Searching Systems
 
 ### 4.2.5. Navigation Systems
