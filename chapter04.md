@@ -24,7 +24,7 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 
 ### 4.2.4. Searching Systems
 
-**Landing Page:** Los usuarios que ingresen a la web estática(landing page) se les proporcionara opciones de navegación para la búsqueda de información que les interese sobre nuestra plataforma web.
+**Landing Page:** Los usuarios que ingresen a la web estática(landing page) se les proporcionara opciones de búsqueda para la información que les interese sobre nuestra plataforma web.
 - Un header con una serie de botones que los redirigirá a la sección con la información que buscan.
 - Durante la vista de la web estática, se le mostrará un título que resalte la información que van a ver como los planes, servicios o nosotros.
 
