@@ -24,10 +24,6 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 
 ### 4.2.4. Searching Systems
 
-**Landing Page:** Los usuarios que ingresen a la web estática(landing page) se les proporcionara opciones de búsqueda para la información que les interese sobre nuestra plataforma web.
-- Un header con una serie de botones que los redirigirá a la sección con la información que buscan.
-- Durante la vista de la web estática, se le mostrará un título que resalte la información que van a ver como los planes, servicios o nosotros.
-
 **Web Applications:** Los usuarios que estén registrados y utilice uno de nuestros planes en la plataforma web, tendrá acceso a diferentes tipos de búsqueda que les permitirá tanto a los pacientes como a los psiquiatras, buscar la información que necesiten.
 - Psiquiatras:
   - Filtrado de búsquedas por fechas: Estas incluyen
@@ -41,3 +37,7 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
     - Búsqueda de tareas asignadas
 
 ### 4.2.5. Navigation Systems
+
+**Landing Page:** Los usuarios que ingresen a la web estática(landing page) se les proporcionara opciones de navegación para la información que les interese sobre nuestra plataforma web.
+- Un header con una serie de botones que los redirigirá a la sección con la información que buscan.
+- Durante la vista de la web estática, se le mostrará un título que resalte la información que van a ver como los planes, servicios o nosotros.
