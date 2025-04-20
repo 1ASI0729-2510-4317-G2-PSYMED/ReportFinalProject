@@ -34,15 +34,21 @@ Entrevistado 2:
   <img src="/assets/chapter02/interviews/interview2PR.png">
 </div>
 
-| Nombre               |                                                                                                                                                                                                                                                                                                                                 |
+| Nombre               | Guisela                                                                                                                                                                                                                                                                                                                                |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             |                                                                                                                                                                                                                                                                                                                                |
-| Edad                 |                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                     |
-| URL                  | [[Entrevista_Médicos_02](enlace)) |
-| Inicio de entrevista | 0:00 minutos                                                                                                                                                                                                                                                                                                                          |
-| Fin de entrevista    | 00:00 minutos    
+| Apellido             | Rios                                                                                                                                                                                                                                                                                                                               |
+| Edad                 | 21                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                     |
+| URL                  | [[Entrevista_Médicos_02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/EZlUAesf9pBLgNNwOav42tYBcdK0Vvh96LhtucYRzdgDIA?e=CBi7zf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) |
+| Inicio de entrevista | 0:46 minutos                                                                                                                                                                                                                                                                                                                          |
+| Fin de entrevista    | 15:47 minutos    
 
 **Resumen:**
+Ella menciona tener experiencia en el uso de plataformas como Atlas.ti y MAXQDA, las cuales ha utilizado durante la elaboración de su tesis, destacando que ambas requieren pago en dólares.
+Actualmente, gestiona la información de sus pacientes utilizando Excel, debido a su accesibilidad y comprensión por parte de otros profesionales en su entorno. Su familiaridad con herramientas digitales es alta, ya que domina redes sociales y aplicaciones como WhatsApp. Durante la entrevista, la psicóloga planteó funciones que consideraría útiles para una plataforma de gestión psicológica como por ejemplo:
+
+- Información sistematizada y bien estructurada, permitiendo una lectura rápida y comprensible.
+- Un entorno de navegación intuitiva, similar a plataformas digitales actuales, para facilitar el uso diario.
+- Un enfoque especial en la calidad de redacción, ya que considera importante que los textos estén bien redactados como parte de la experiencia profesional y personal.
 
 Entrevistado 3:
 
