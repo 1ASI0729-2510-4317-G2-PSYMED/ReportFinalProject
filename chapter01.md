@@ -54,8 +54,8 @@ PsyMed es una plataforma web creada para optimizar la gestión del monitorio del
         </tr>
         <tr>
             <td>Chavez Uribe, Ario Joel</td>
-            <td><img src="assets/LogoUPC.png" alt="Foto de Ario" /></td>
-            <td>Estudiante de la carrera de ingenieria de Software</td>
+            <td><img src="assets/Ario.png" alt="Foto de Ario" /></td>
+            <td>Soy estudiante de la carrera de Ingeniería de Software. Tengo interés en aprender sobre nuevas tecnologías, el desarrollo web y de aplicaciones. Además, tengo conocimientos en los lenguajes de programación como: C++, Python, Typescript. Útiles para el desarrollo y solución del proyecto.</td>
         </tr>
         <tr>
             <td>Seminario Castillo, Diego Vicente</td>
