@@ -56,10 +56,10 @@ Entrevistado 3:
   <img src="/assets/chapter02/interviews/interview3PR.png">
 </div>
 
-| Nombre               |                                                                                                                                                                                                                                                                                                                                 |
+| Nombre               | Sara                                                                                                                                                                                                                                                                                                                                |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             |                                                                                                                                                                                                                                                                                                                                |
-| Edad                 |                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                     |
+| Apellido             | Silva                                                                                                                                                                                                                                                                                                                               |
+| Edad                 | 29                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                     |
 | URL                  | [[Entrevista_Médicos_03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/EUURykWREgBElIYSI5tfNXAB3mcyxryr6ybI-2AkYTIQjg?e=xFMY47&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) |
 | Inicio de entrevista | 0:00 minutos                                                                                                                                                                                                                                                                                                                          |
 | Fin de entrevista    | 00:00 minutos    
@@ -164,9 +164,9 @@ Según los datos recolectados para el análisis de nuestro segmento de profesion
 En términos de género, hay una ligera mayoría femenina, y un pequeño de los entrevistados reside fuera de Lima Metropolitana, aunque la mayoría cuenta con acceso a servicios digitales.
 
 <p align="center">
-  <img src="assets/chapter02/statistics/doctors/doctor_1.png" style="width:800px; height:auto;">
-  <img src="assets/chapter02/statistics/doctors/doctor_2.png" style="width:800px; height:auto;">
-  <img src="assets/chapter02/statistics/doctors/doctor_3.png" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/patients/doctor_1.png" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/patients/doctor_2.png" style="width:800px; height:auto;">
+  <img src="assets/chapter02/statistics/patients/doctor_3.png" style="width:800px; height:auto;">
 
 </p>
 
