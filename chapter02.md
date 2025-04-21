@@ -60,11 +60,17 @@ Entrevistado 3:
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Apellido             |                                                                                                                                                                                                                                                                                                                                |
 | Edad                 |                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                     |
-| URL                  | [[Entrevista_Médicos_03](enlace)) |
+| URL                  | [[Entrevista_Médicos_03](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/EUURykWREgBElIYSI5tfNXAB3mcyxryr6ybI-2AkYTIQjg?e=xFMY47&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)) |
 | Inicio de entrevista | 0:00 minutos                                                                                                                                                                                                                                                                                                                          |
 | Fin de entrevista    | 00:00 minutos    
 
 **Resumen:**
+Sara menciona que no ha utilizado plataformas pagadas para la gestión de pacientes, optando por herramientas accesibles como Excel, que le permiten organizar la información de los estudiantes con diagnósticos como autismo o síndrome de Down. Esta base de datos es compartida entre el equipo de psicología de la institución educativa donde trabaja. También usa archivadores físicos para complementar la organización de la información. Durante la entrevista, la psicóloga planteó funciones que consideraría útiles para una plataforma de gestión psicológica, tales como:
+
+- Agenda compartida entre profesionales (psicólogo escolar y terapeutas externos) para facilitar la coordinación de reuniones.
+- Recordatorios automáticos para padres, terapeutas o psicólogos sobre próximas reuniones, citas o tareas pendientes.
+- Registro sistematizado de estudiantes con historial clínico, diagnósticos y plan de intervención, accesible de forma rápida y clara.
+- Plataforma que permita organizar y almacenar información tanto escolar, familiar como terapéutica en un solo lugar.
 
 #### Segmento 2: Pacientes
 
@@ -154,7 +160,8 @@ por la herramienta, Google Forms.
 
 - **Segmento 1: Medicos de la salud mental  **
 
-
+Según los datos recolectados para el análisis de nuestro segmento de profesionales de la salud, se ha identificado que una mayoría significativa se encuentra en el rango de edad entre 18 y 30 años, con un nivel educativo universitario o técnico en curso.
+En términos de género, hay una ligera mayoría femenina, y un pequeño de los entrevistados reside fuera de Lima Metropolitana, aunque la mayoría cuenta con acceso a servicios digitales.
 
 <p align="center">
   <img src="assets/chapter02/statistics/doctors/doctor_1.png" style="width:800px; height:auto;">
@@ -166,7 +173,7 @@ por la herramienta, Google Forms.
 - **Segmento 2: Pacientes**
 
 Según los datos recolectados para el análisis de nuestro segmento de pacientes, se ha identificado que una mayoría significativa se encuentra en el rango de edad entre 18 y 30 años, con un nivel educativo universitario o técnico en curso.
-En términos de género, hay una ligera mayoría masculina, y la totalidad de los entrevistados reside fuera de Lima Metropolitana, aunque la mayoría cuenta con acceso a servicios digitales.
+En términos de género, hay una ligera mayoría masculina, y la mayoría de los entrevistados reside fuera de Lima Metropolitana, aunque la mayoría cuenta con acceso a servicios digitales.
 
 <p align="center">
   <img src="assets/chapter02/statistics/patients/patients_1.png" style="width:800px; height:auto;">
