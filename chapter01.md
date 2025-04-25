@@ -137,11 +137,11 @@ User Outcomes:
 
 Business Outcomes:
 
-- **Desarrollo de los Especialistas en su Área:** Se estima un ingreso mediano de nuevos usuarios durante el primer mes después del lanzamiento de la plataforma. Al proporcionar herramientas especializadas en la gestión de la información de pacientes con trastornos mentales, se espera que la plataforma permita a los psiquiatras crecer gracias a una mejor organización de las citas médicas, tratamientos y el estado de los pacientes ya que tendrán una mejor comprensión del área de una manera más cómoda.
+- **Desarrollo de los Especialistas en su Área:** Se estima un ingreso mediano de nuevos usuarios durante el primer mes después del lanzamiento de la plataforma. Al proporcionar herramientas especializadas en la gestión de la información de pacientes con trastornos mentales, se espera que la plataforma permita a los psiquiatras crecer gracias a una mejor organización de las citas médicas, tratamientos y el estado de los pacientes, ya que tendrán una mejor comprensión del área de una manera más cómoda.
 
-- **Generación de Ingresos Sostenibles:** Se espera dentro de los primeros seis meses después del lanzamiento, al menos el 25% de las instituciones de salud mental y profesionales independientes que utilicen la versión gratuita de la plataforma se conviertan en suscriptores de pago. Este éxito se medirá a través de la tasa de conversión de usuarios gratuitos a usuarios pagos y por el aumento en los ingresos recurrentes mensuales. La satisfacción del usuario y la retención de suscripciones a largo plazo serán indicadores clave para evaluar la sostenibilidad financiera de la plataforma.
+- **Generación de Ingresos Sostenibles:** Se espera que las instituciones de salud mental y profesionales independientes que utilicen la versión gratuita de la plataforma se conviertan en suscriptores de pago. Este éxito se medirá a través de la tasa de conversión de usuarios gratuitos a usuarios pagos y por el aumento en los ingresos recurrentes mensuales. La satisfacción del usuario y la retención de suscripciones a largo plazo serán indicadores clave para evaluar la sostenibilidad financiera de la plataforma.
 
-- **Impacto Positivo en la Salud Mental:** A lo largo del primer año de operación, se espera que el uso de la plataforma reduzca la carga administrativa en un 30% para los profesionales de salud mental que la utilicen activamente, medido a través de encuestas de usuario y estudios de tiempo dedicados a tareas administrativas antes y después de la adopción de la plataforma. Además, se busca que al menos el 20% de los pacientes tratados a través de la plataforma reporten mejoras en la satisfacción con la atención recibida, lo que se evaluará mediante encuestas periódicas a los pacientes.
+- **Impacto Positivo en la Salud Mental:** Se estima que el uso de la plataforma reduzca la carga administrativa de los psiquiatras, esto será mediante el uso de encuestas de usuario y estudios de tiempo dedicados a tareas administrativas antes y después de la adopción de la plataforma. Además, se busca que los pacientes tratados a través de la plataforma reporten mejoras en la satisfacción con la atención recibida, lo que se evaluará mediante encuestas periódicas a los pacientes.
 
 Features Assumptions:
 - Acceso a Herramientas de Gestión Especializadas:
@@ -165,3 +165,4 @@ Features Assumptions:
 
 #### 1.2.2.4. Lean UX Canvas
 
+![Lean UX Canvas](./assets/lean-ux-canvas.png)
