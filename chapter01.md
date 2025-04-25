@@ -39,8 +39,8 @@ PsyMed es una plataforma web creada para optimizar la gestión del monitorio del
     <tbody>
         <tr>
             <td>Aru Acevedo, Yair Christofer</td>
-            <td><img src="assets/LogoUPC.png" alt="Foto de Yair" /></td>
-            <td>Estudiante de la carrera de ingenieria de Software en la UPC. Tiene conocimientos en los lenguajes de C++, Java, Python, Javascript y Typescript.</td>
+            <td><img src="assets/Yair.png" alt="Foto de Yair" /></td>
+            <td>Estudiante de la carrera de ingenieria de Software en la UPC. Tiene conocimientos en los lenguajes de C++, Java, Python, Javascript y Typescript. Además tiene un dominio del ingles intermedio. Está interesado en el uso de nuevas tecnologias para la ciberseguridad.</td>
         </tr>
         <tr>
             <td>Astuyauri Herencia, Jhomar Cristian Elias</td>
@@ -59,13 +59,13 @@ PsyMed es una plataforma web creada para optimizar la gestión del monitorio del
         </tr>
         <tr>
             <td>Seminario Castillo, Diego Vicente</td>
-            <td><img src="assets/LogoUPC.png" alt="Foto de Diego" /></td>
+            <td><img src="assets/Diego.png" alt="Foto de Diego" /></td>
             <td>Estudiante de la carrera de ingenieria de Software</td>
         </tr>
         <tr>
             <td>Prudencio Alcantara, Joel</td>
-            <td><img src="assets/LogoUPC.png" alt="Foto de Joel" /></td>
-            <td>Estudiante de la carrera de ingenieria de Software</td>
+            <td><img src="assets/Joel.png" alt="Foto de Joel" /></td>
+            <td>Estudiante de ingenieria de software, apasionado por involucrarse en proyectos desafiantes de programación, con experiencia en soporte técnico y el desarrollo de programas utilizando c++, javascript y typescript</td>
         </tr>
     </tbody>
 </table>
