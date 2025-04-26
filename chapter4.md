@@ -14,7 +14,7 @@ __Diagnostic__: Clase que contiene los diagnósticos médicos vinculados a una h
 __Session__: Clase que contiene los atributos de las sesiones médicas, incluyendo fecha, profesional, paciente y nota.<br>
 __Note__: Clase que contiene las notas clínicas de cada sesión, describiendo síntomas y observaciones.<br>
 __Treatment__: Clase que contiene los tratamientos asignados a los pacientes, con nombre, descripción e intervalo de tiempo.<br>
-__Medication_-: Clase que contiene los medicamentos prescritos a los pacientes, su dosificación y duración del tratamiento.<br>
+__Medication__: Clase que contiene los medicamentos prescritos a los pacientes, su dosificación y duración del tratamiento.<br>
 __Prescription__: Clase que contiene una receta que agrupa múltiples medicamentos para un paciente.<br>
 __MedicalPrescription__: Clase que contiene las prescripciones médicas asociadas a un paciente y a un profesional.<br>
 __Speciality__: Clase que contiene la especialidad de los profesionales, como psiquiatría o psicología clínica.<br>
