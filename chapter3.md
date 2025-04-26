@@ -1,3 +1,4 @@
+
 # CAPÍTULO III: Requirements Specifications
 
 ## 3.1. To-Be Scenario Mapping.
@@ -6,6 +7,134 @@
 ### Segmento Pacientes:
 
 ## 3.2. User Stories.
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>01</th>
+    <th>TITLE: Accesibilidad de la Landing Page</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> visitante de la Landing Page, 
+      <strong>quiero</strong> que la información sobre la aplicación sea fácil de entender 
+      <strong>para</strong> poder comprender rápidamente su propósito.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>02</th>
+    <th>TITLE: Interfaz de la Landing Page</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> visitante de la Landing Page, 
+      <strong>quiero</strong> que la página sea visualmente agradable 
+      <strong>para</strong> que atraiga mi atención.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>03</th>
+    <th>TITLE: Acceso a la aplicación</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> usuario de la aplicación, 
+      <strong>quiero</strong> acceder con mi información 
+      <strong>para</strong> hacer uso de las características disponibles.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>04</th>
+    <th>TITLE: Registro de información del paciente</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> profesional de la salud mental, 
+      <strong>quiero</strong> registrar información de mis pacientes 
+      <strong>para</strong> manejar su historial clínico y ajustar sus planes de tratamiento de manera efectiva.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>05</th>
+    <th>TITLE: Seguimiento del tratamiento del paciente</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> profesional de la salud mental, 
+      <strong>quiero</strong> hacer un seguimiento de mis pacientes 
+      <strong>para</strong> asegurar la eficiencia del tratamiento del paciente.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>06</th>
+    <th>TITLE: Registro de actualizaciones del tratamiento</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> profesional de la salud mental, 
+      <strong>quiero</strong> hacer actualizaciones a los registros del tratamiento 
+      <strong>para</strong> que el paciente reciba actualizaciones después de cada sesión.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>07</th>
+    <th>TITLE: Recepción de actualizaciones del tratamiento</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> paciente, 
+      <strong>quiero</strong> recibir las indicaciones y ajustes de mi tratamiento 
+      <strong>para</strong> estar en constante comunicación con mi profesional de salud mental.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>08</th>
+    <th>TITLE: Registro de cumplimiento del tratamiento</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> paciente, 
+      <strong>quiero</strong> registrar mi progreso 
+      <strong>para</strong> que mi terapeuta esté al pendiente de mi estado de salud mental.
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>09</th>
+    <th>TITLE: Gestión de información de la cuenta</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> usuario, 
+      <strong>quiero</strong> gestionar mi información según mis necesidades 
+      <strong>para</strong> mantener siempre información actualizada y precisa.
+    </td>
+  </tr>
+</table>
+
+
 | ID   | Título                                                | Descripción                                                                                                                                                                    | Criterios de aceptación                                                                                                                    | EpicID   |
 |------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | EP01 | Accesibilidad de la Landing Page                       | Como visitante de la Landing Page, quiero que la información sobre la aplicación sea fácil de entender para poder comprender rápidamente su propósito.                           | No corresponde                                                                                                                              | No corresponde |
@@ -17,6 +146,10 @@
 | EP07 | Recepción de actualizaciones del tratamiento           | Como paciente, quiero recibir las indicaciones y ajustes de mi tratamiento para estar en constante comunicación con mi profesional de salud mental.                               | No corresponde                                                                                                                              | No corresponde |
 | EP08 | Registro de cumplimiento del tratamiento               | Como paciente quiero registrar mi progreso para que mi terapeuta esté al pendiente de mi estado de salud mental.                                                                | No corresponde                                                                                                                              | No corresponde |
 | EP09 | Gestión de información de la cuenta                    | Como usuario quiero gestionar mi información según mis necesidades para mantener siempre información actualizada y precisa.                                                     | No corresponde                                                                                                                              | No corresponde |
+
+
+| ID   | Título                                                | Descripción                                                                                                                                                                    | Criterios de aceptación                                                                                                                    | EpicID   |
+|------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | US01 | Adaptabilidad y compatibilidad de la Landing Page      | Como visitante de la Landing Page, quiero que el contenido se adapte al tamaño de la pantalla del dispositivo desde el que accede para obtener la información de manera ordenada. | **Scenario 1**: Adaptabilidad a diferentes tamaños de pantalla <br> **Given** el visitante se encuentra en la landing page, <br> **When** ingresa al sitio web, <br> **Then** la landing page debe poseer un contenido que se ajuste automáticamente al tamaño de la pantalla. <br><br> **Scenario 2**: Compatibilidad con navegadores principales <br> **Given** el visitante se encuentra en la landing page, <br> **When** utiliza su navegador de preferencia, <br> **Then** la landing page debe ser compatible. | EP01   |
 | US02 | Encontrar información del propósito de la aplicación   | Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.            | **Scenario 1**: Visibilidad del propósito de la aplicación <br> **Given** el visitante se encuentra en la landing page, <br> **When** explora la página principal, <br> **Then** la landing page debe poseer información clara y concisa para el visitante. <br><br> **Scenario 2**: Acceso rápido a los planes de la aplicación <br> **Given** el visitante se encuentra en la sección de planes de la landing page, <br> **When** hace clic en un botón de "Más información", <br> **Then** la landing page debe dirigirlo a una sección que detalle las características y precios del plan seleccionado. | EP01   |
 | US03 | Visualización de imágenes y gráficos relevantes        | Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.               | **Scenario 1**: Calidad de las imágenes <br> **Given** el visitante se encuentra en la landing page, <br> **When** explora la página principal, <br> **Then** la landing page debe presentar imágenes de alta calidad y relevantes que capten la atención del visitante. <br><br> **Scenario 2**: Relevancia de los gráficos <br> **Given** el visitante se encuentra en la landing page, <br> **When** se desplaza, <br> **Then** la landing page debe mostrar gráficos que ayuden al visitante a comprender el contenido. | EP02   |
