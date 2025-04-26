@@ -7,133 +7,8 @@
 ### Segmento Pacientes:
 
 ## 3.2. User Stories.
-<table>
-  <tr>
-    <th>EPIC ID</th>
-    <th>01</th>
-    <th>TITLE: Accesibilidad de la Landing Page</th>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>Cómo</strong> visitante de la Landing Page, 
-      <strong>quiero</strong> que la información sobre la aplicación sea fácil de entender 
-      <strong>para</strong> poder comprender rápidamente su propósito.
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>EPIC ID</th>
-    <th>02</th>
-    <th>TITLE: Interfaz de la Landing Page</th>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>Cómo</strong> visitante de la Landing Page, 
-      <strong>quiero</strong> que la página sea visualmente agradable 
-      <strong>para</strong> que atraiga mi atención.
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>EPIC ID</th>
-    <th>03</th>
-    <th>TITLE: Acceso a la aplicación</th>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>Cómo</strong> usuario de la aplicación, 
-      <strong>quiero</strong> acceder con mi información 
-      <strong>para</strong> hacer uso de las características disponibles.
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>EPIC ID</th>
-    <th>04</th>
-    <th>TITLE: Registro de información del paciente</th>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>Cómo</strong> profesional de la salud mental, 
-      <strong>quiero</strong> registrar información de mis pacientes 
-      <strong>para</strong> manejar su historial clínico y ajustar sus planes de tratamiento de manera efectiva.
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>EPIC ID</th>
-    <th>05</th>
-    <th>TITLE: Seguimiento del tratamiento del paciente</th>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>Cómo</strong> profesional de la salud mental, 
-      <strong>quiero</strong> hacer un seguimiento de mis pacientes 
-      <strong>para</strong> asegurar la eficiencia del tratamiento del paciente.
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>EPIC ID</th>
-    <th>06</th>
-    <th>TITLE: Registro de actualizaciones del tratamiento</th>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>Cómo</strong> profesional de la salud mental, 
-      <strong>quiero</strong> hacer actualizaciones a los registros del tratamiento 
-      <strong>para</strong> que el paciente reciba actualizaciones después de cada sesión.
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>EPIC ID</th>
-    <th>07</th>
-    <th>TITLE: Recepción de actualizaciones del tratamiento</th>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>Cómo</strong> paciente, 
-      <strong>quiero</strong> recibir las indicaciones y ajustes de mi tratamiento 
-      <strong>para</strong> estar en constante comunicación con mi profesional de salud mental.
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>EPIC ID</th>
-    <th>08</th>
-    <th>TITLE: Registro de cumplimiento del tratamiento</th>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>Cómo</strong> paciente, 
-      <strong>quiero</strong> registrar mi progreso 
-      <strong>para</strong> que mi terapeuta esté al pendiente de mi estado de salud mental.
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>EPIC ID</th>
-    <th>09</th>
-    <th>TITLE: Gestión de información de la cuenta</th>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <strong>Cómo</strong> usuario, 
-      <strong>quiero</strong> gestionar mi información según mis necesidades 
-      <strong>para</strong> mantener siempre información actualizada y precisa.
-    </td>
-  </tr>
-</table>
 
+### Lista de Épicas
 
 | ID   | Título                                                | Descripción                                                                                                                                                                    | Criterios de aceptación                                                                                                                    | EpicID   |
 |------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------|
@@ -147,6 +22,7 @@
 | EP08 | Registro de cumplimiento del tratamiento               | Como paciente quiero registrar mi progreso para que mi terapeuta esté al pendiente de mi estado de salud mental.                                                                | No corresponde                                                                                                                              | No corresponde |
 | EP09 | Gestión de información de la cuenta                    | Como usuario quiero gestionar mi información según mis necesidades para mantener siempre información actualizada y precisa.                                                     | No corresponde                                                                                                                              | No corresponde |
 
+### Lista de Historias de Usuario
 
 | ID   | Título                                                | Descripción                                                                                                                                                                    | Criterios de aceptación                                                                                                                    | EpicID   |
 |------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------|
@@ -175,6 +51,11 @@
 | US23 | Registro de funciones biológicas                       | Como paciente, quiero registrar la calidad de mis funciones biológicas para poder ver mi progreso y que mi profesional a cargo también esté pendiente.                          | **Scenario 1**: Ingreso de funciones biológicas <br> **Given** el paciente ha accedido a la sección de registro de funciones biológicas, <br> **When** selecciona la opción de registrar funciones, <br> **Then** la plataforma debe permitir al paciente seleccionar su nivel de sueño, hambre, energía e hidratación en una escala del 1 al 10. | EP08   |
 | US24 | Cambio de datos de acceso del paciente                 | Como profesional de la salud mental, quiero actualizar los datos de acceso del paciente para asegurar que su información esté siempre correcta y refleje cualquier cambio necesario. | **Scenario 1**: Actualización exitosa de los datos de acceso <br> **Given** el profesional de la salud mental ha accedido a la sección de cambio de datos de acceso del paciente, <br> **When** actualiza los datos requeridos <br> **And** hace clic en un botón de "Guardar", <br> **Then** la plataforma debe actualizar los datos de acceso del paciente y mostrar una confirmación de éxito. <br><br> **Scenario 2**: Error al actualizar los datos de acceso por falta de completación <br> **Given** el profesional de la salud mental ha accedido a la sección de cambio de datos de acceso del paciente, <br> **When** intenta actualizar los datos pero deja campos obligatorios sin completar <br> **And** hace clic en un botón de "Guardar", <br> **Then** la plataforma debe mostrar un mensaje de error indicando los campos que deben completarse para poder guardar los cambios. | EP09   |
 | US25 | Cambio de información personal del profesional de salud mental | Como profesional de la salud mental, quiero actualizar mi información personal para mantener mis datos profesionales correctos y reflejar cualquier cambio relevante.           | **Scenario 1**: Actualización exitosa de la información personal <br> **Given** el profesional de la salud mental ha accedido a la sección de cambio de información personal, <br> **When** actualiza los datos requeridos <br> **And** hace clic en un botón de "Guardar", <br> **Then** la plataforma actualiza la información personal y muestra una confirmación de éxito. <br><br> **Scenario 2**: Error al actualizar la información personal por falta de completación <br> **Given** el profesional de la salud mental ha accedido a la sección de cambio de información personal, <br> **When** intenta actualizar los datos pero deja campos obligatorios sin completar <br> **And** hace clic en un botón de "Guardar", <br> **Then** la plataforma muestra un mensaje de error indicando los campos que deben completarse para poder guardar los cambios. | EP09   |
+
+
+### Lista de Tecnical Stories
+| ID   | Título                                                | Descripción                                                                                                                                                                    | Criterios de aceptación                                                                                                                    | EpicID   |
+|------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | TS01 | Añadir paciente a través de un RESTful API                            | Como desarrollador, quiero que se pueda añadir a un paciente a través de un API, para que el profesional de salud mental registre al paciente.                                                                                                  | **Scenario 1**: Añadir paciente con DNI único <br> **Given** el endpoint “/api/v1/patients” está disponible, <br> **When** un POST request es enviado con los valores de nombre, apellido, correo, dni, fecha de nacimiento, nombre de usuario y contraseña, <br> **Then** se recibe un response con un status 201 y el recurso del paciente es incluido en el Body del response con un nuevo id y los valores registrados de su usuario, nombre y correo. <br><br> **Scenario 2**: Añadir paciente con DNI repetido <br> **Given** el endpoint “/api/v1/patients” está disponible, <br> **When** un POST request es enviado con los valores de nombre, apellido, correo, dni, fecha de nacimiento, nombre de usuario y contraseña, <br> **And** un recurso de paciente tiene el mismo valor de dni que el que viene en el request, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response, con un mensaje que diga: “Ya existe un paciente registrado con el mismo DNI”. | No corresponde |
 | TS02 | Añadir profesional de la salud mental a través de un RESTful API      | Como desarrollador, quiero implementar la opción de añadir un profesional de la salud mental a través de una API RESTful, para que este pueda interactuar con los pacientes en el sistema.                                                      | **Scenario 1**: Añadir profesional con DNI único <br> **Given** el endpoint “/api/v1/profesionales” está disponible, <br> **When** un POST request es enviado con los valores de nombre, apellido, correo, dni, especialidad, nombre de usuario y contraseña, <br> **Then** se recibe un response con un status 201 y el recurso del profesional es incluido en el body del response con un nuevo id y los valores registrados de su nombre, apellido y especialidad. <br><br> **Scenario 2**: Añadir profesional con DNI repetido <br> **Given** el endpoint “/api/v1/profesionales” está disponible, <br> **When** un POST request es enviado con los valores de nombre, apellido, correo, dni, especialidad, nombre de usuario y contraseña, <br> **And** un recurso de profesional tiene el mismo valor de dni que el que viene en el request, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response, con un mensaje que diga: “Ya existe un profesional registrado con el mismo DNI”. | No corresponde |
 | TS03 | Eliminar paciente a través de un RESTful API                          | Como desarrollador, quiero implementar la funcionalidad para eliminar un paciente a través de una API RESTful, para gestionar correctamente la eliminación de registros de pacientes según sea necesario.                                         | **Scenario 1**: Eliminar paciente existente <br> **Given** el endpoint “/api/v1/pacientes/{id}” está disponible, <br> **And** existe un paciente con el id especificado, <br> **When** un DELETE request es enviado al endpoint con el id del paciente, <br> **Then** se recibe un response con un status 204 y el recurso del paciente es eliminado del sistema. <br><br> **Scenario 2**: Intentar eliminar paciente inexistente <br> **Given** el endpoint “/api/v1/pacientes/{id}” está disponible, <br> **And** no existe un paciente con el id especificado, <br> **When** un DELETE request es enviado al endpoint con el id del paciente, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Paciente no encontrado”. | No corresponde |
