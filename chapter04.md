@@ -2,6 +2,11 @@
 
 ### 4.2.1. Organization Systems
 
+- Sistemas de Organización Visual:
+  - Organización secuencial: Se utilizará este tipo de sistema, ya que sirve para explicar la información sobre la plataforma web de forma consecutiva. Asi el usuario podrá ir conociendo paso a paso el funcionamiento de la aplicación a través del Landing Page. Esto dirigiendolo a cada sección en orden para ir conociendo poco a poco la aplicación siendo esto desde la introducción de la aplicación web, el equipo que conforma el statup, nuestros planes con sus beneficios hasta un video de la aplicación con su uso adecuado y la manera de contactarnos para resolver dudas de los usuarios.
+- Esquemas de Categorización de Contenido:
+  - Por tópicos: El diseño de la Landing Page se divide por tópicos que se utiliza para distribuir los diferentes temas a tratar de nuestra plataforma, presentando cada tópico de manera individual en una sección donde se explicará con más detalle, la información necesaria para el uso de la plataforma en diferentes aspectos. Esto permitirá que los usuarios deban buscar el tópico que necesitan saber, en el que tienen dudas o directamente buscar la sección donde puede realizar estas mismas consultas directamente.
+
 ### 4.2.2. Labeling Systems
 
 En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que indican de manera clara al usuario, la funcionalidad de cada una. Siendo estas etiquetas las siguientes:
