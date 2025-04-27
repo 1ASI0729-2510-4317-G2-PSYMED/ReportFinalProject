@@ -61,7 +61,7 @@ En esta sección, se evidenciará el deploy de la Landing Page ingresando al sig
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-
+Para este primer Sprint, solo se implementa y despliega la Landing Page, por lo que no se utilizó endpoints.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
