@@ -9,7 +9,11 @@
 
 ### 5.1.2. Source Code Management.
 
+Para el desarrollo del producto, utilizamos Gitflow para la organización de las ramas con los puntos a desarrollar durante el proyecto.
+Para los repositorios se utilizó GitHub, para llevar un registro de los cambios realizados en las tareas asignadas siendo en este caso un repositorio para Report y otro para la Landing Page desplegada.
 
+- URL del repositorio Report en GitHub: https://github.com/1ASI0729-2510-4317-G2-OpenGG/ReportFinalProject
+- URL del repositorio Landing Page en GitHub: https://github.com/1ASI0729-2510-4317-G2-OpenGG/Landing-Page
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
