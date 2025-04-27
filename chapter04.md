@@ -264,7 +264,7 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
 <p align="center">
-<img src="/assets/diagrama_de_clases_open.png">
+<img src="/assets/diagrama_de_clases_open.jpeg">
 </p>
 
 ### 4.7.2.Class Dictionary
