@@ -178,24 +178,7 @@ En el siguiente cuadro, se indicaran las acciones realizadas y conclusiones
 de los integrantes del grupo que evidencien y sustenten que se desarrollo el 
 logro del student outcome.
 
-<table>
-    <thead>
-        <tr>
-            <th>Criterio específico</th>
-            <th>Acciones realizadas</th>
-            <th>Conclusiones</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
+| **Criterio Específico** | **Acciones Realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Conclusiones** |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **Seminario Castillo Diego Vicente**<br>TB1:Me reuní de manera efectiva con mis compañeros para la distribución de tareas.<br><br>**Aru Acevedo, Yair Christofer**<br>TB1:Como team leader, repartimos las tareas a realizar. Realizamos la estructura de la Landing Page y la información para captar interés de los segmentos objetivos.<br><br>**Astuyauri Herencia, Jhomar Cristian Elias**<br>TB1:Expuse de manera clara y estructurada el avance y diseño de la Landing Page y Aplicaciones Web, incluyendo wireframes, mockups y flujos de usuario.<br><br>**Ccotarma Ttito, Eduardo Eusebio Sihuar**<br>TB1:Me comuniqué oralmente coordinando a mi grupo, explicando de manera precisa el trabajo. Además, elaboré las User Stories y wireframes.<br><br>**Chávez Uribe, Ario Joe**<br>TB1:Me comuniqué con mis compañeros para concretar las actividades propuestas, incluyendo entrevistas a los segmentos objetivos.<br><br>**Prudencio Alcantara, Joel**<br>TB1:Me reuní de manera efectiva con mis compañeros para la distribución de tareas y realizamos entrevistas para entender las necesidades de los usuarios. | Como equipo, logramos comunicarnos de manera efectiva en distintos contextos y audiencias, coordinando nuestras actividades mediante presentaciones claras, elaboración de User Stories, mockups, wireframes y diagramas de bases de datos. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **Seminario Castillo Diego Vicente**<br>TB1:Se completaron los diagramas de clases, el diagrama de base de datos y el class dictionary.<br><br>**Aru Acevedo, Yair Christofer**<br>TB1:Realizamos la descripción del startup, los segmentos objetivos, la selección de historias de usuario para el sprint 1 y la redacción de la Landing Page.<br><br>**Astuyauri Herencia, Jhomar Cristian Elias**<br>TB1:Documenté y estructuré el Capítulo 04 del informe final describiendo el diseño de la Landing Page y Aplicaciones Web.<br><br>**Ccotarma Ttito, Eduardo Eusebio Sihuar**<br>TB1:Coordiné por escrito al grupo, redacté User Stories, elaboré wireframes y documenté tareas clave.<br><br>**Chávez Uribe, Ario Joe**<br>TB1:Implementé de manera objetiva las tareas asignadas en el informe y el desarrollo de la landing page.<br><br>**Prudencio Alcantara, Joel**<br>TB1:Realicé los capítulos 2 y 3 documentando los segmentos objetivos, sus necesidades y tipos de clientes, organizándolos en historias de usuario.                                                                                                  | Logramos una comunicación efectiva tanto oral como escrita, permitiendo coordinar actividades y avanzar en la implementación del proyecto de manera organizada y precisa. |
