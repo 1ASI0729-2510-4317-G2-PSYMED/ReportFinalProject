@@ -344,7 +344,9 @@ Landing Page:
 
 # Conclusiones
 
+<br>El impacto de "PsyMed" va más allá de la digitalización de procesos; busca contribuir a la mejora de la atención médica en salud mental en Perú, disminuyendo la carga administrativa de los profesionales y elevando la calidad del servicio ofrecido a los pacientes. Además, el modelo de negocio propuesto sostiene el crecimiento económico del proyecto mediante licencias y suscripciones, asegurando su viabilidad a largo plazo.<br>
 
+<br>El equipo utilizó enfoques ágiles, como el Lean UX Process, Impact Mapping, y la elaboración de un detallado Product Backlog y User Stories. Esto permitió definir con claridad las funcionalidades prioritarias de la plataforma, alineándolas con los objetivos de negocio y las necesidades de los usuarios, asegurando un producto escalable, especializado y con alto valor agregado para el sector de salud mental.<br>
 
 # Bibliografía
 
