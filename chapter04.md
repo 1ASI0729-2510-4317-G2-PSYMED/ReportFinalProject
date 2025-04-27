@@ -184,7 +184,6 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ![Wireframe del Home paciente](assets/wireframes/Home_Pacient.png)
 **Wireframe del Datos**
 ![Wireframe del Datos](assets/wireframes/OpcionesPacientes.png)
-
 ### 4.4.2. Web Applications Wireflow Diagrams
 ![wireflow](assets/Wireflow_wireframe_app.png)
 ### 4.4.2. Web Applications Mock-ups
@@ -222,50 +221,44 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ![User Flow Mockups](assets/Wireflow_MockUps_app.png)
 ## 4.5. Web Applications Prototyping
  [Link del prototipe](https://marvelapp.com/prototype/8j2efjg/screen/95484834)
-
 ## 4.6. Domain-Driven Software Architecture
-
 ### 4.6.1. Software Architecture Context Diagram
 
 #### System Context Diagram
 
-![C4Model](assets/ContextDiagram.png  )
+![C4Model](assets/Domain_Driven_Desing/ContextDiagram.png )
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 #### Container Diagram
 
-![C4Model](assets/ContainerDiagram.png)
+![C4Model](assets/Domain_Driven_Desing/ContainerDiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 #### Bounded Context Access Diagram
 
-![C4Model](assets/ComponentDiagramAccess.png)
+![C4Model](assets/Domain_Driven_Desing/ComponentDiagramAccess.png)
 
 #### Bounded Context Sessions Management Diagram
 
-![C4Model](assets/ComponentDiagramSession.png)
+![C4Model](assets/Domain_Driven_Desing/ComponentDiagramSession.png)
 
 #### Bounded Context Task Management Diagram
 
-![C4Model](assets/ComponentDiagramTask.png)
+![C4Model](assets/Domain_Driven_Desing/ComponentDiagramTask.png)
 
 #### Bounded Context Clinical Management Diagram
 
-![C4Model](assets/ComponentDiagramClinical.png)
+![C4Model](assets/Domain_Driven_Desing/ComponentDiagramClinical.png)
 
 #### Bounded Context Tracking Diagram
 
-![C4Model](assets/ComponentDiagramTracking.png)
+![C4Model](assets/Domain_Driven_Desing/ComponentDiagramTracking.png)
 
 #### Bounded Context Communication Diagram
 
-![C4Model](assets/ComponentDiagramCommunication.png)
-
-
-
-
+![C4Model](assets/Domain_Driven_Desing/ComponentDiagramCommunication.png)
 
 
 ## 4.7 Software Object-Oriented Design
