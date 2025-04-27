@@ -29,8 +29,6 @@ Para los repositorios se utilizó GitHub, para llevar un registro de los cambios
 
 ### 5.2.1. Sprint 1
 
-
-
 #### 5.2.1.1. Sprint Planning 1.
 
 
@@ -65,7 +63,27 @@ Para este primer Sprint, solo se implementa y despliega la Landing Page, por lo 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Durante el desarrollo de este Sprint, se logró desplegar exitosamente la Landing Page de PsyMed. Esto permitirá que los posibles usuarios puedan informarse sobre nuestra plataforma y aumentar su interes en la misma. Además de proporcionar la posibilidad de enviarnos un mensaje directo por si tiene alguna duda en especifico. Para el correcto despliegue se utilizó GitHub Pages.
 
+Primero, ingresamos a los repositorios de la organización y seleccionamos la de la Landing Page.
+
+<img src="./assets/dep-1.PNG" alt="deploy 1">
+
+Luego, ingresamos a la sección Settings.
+
+<img src="./assets/dep-2.PNG" alt="deploy 2">
+
+Despues, seleccionamos la opción Pages.
+
+<img src="./assets/dep-3.PNG" alt="deploy 3">
+
+Dentro de Pages, seleccionamos el source y elegimos la opcion "Deploy from a branch", luego seleccionamos la rama y lo guardamos.
+
+<img src="./assets/dep-4.PNG" alt="deploy 4">
+
+Finalmente, escribimos el nombre de nuestro dominio y lo guardamos. Con ello, se realiza el deployment de la Landing Page.
+
+<img src="./assets/dep-5.PNG" alt="deploy 5">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
