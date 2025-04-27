@@ -161,20 +161,29 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 **Wireframe del Home:**
+![Wireframe del Home](assets/wireframes/HOME.png)
 **Wireframe del Register:**
+![Wireframe del Register](assets/wireframes/REGISTER.png)
 **Wireframe del Login:**
+![Wireframe del Login](assets/wireframes/LOGIN.png)
 **Wireframe del Cambio de Contraseña:**
+![Wireframe del Cambio de Contraseña](assets/wireframes/Cambio_contraseña.png)
 **Wireframe del Home Psiquiatras**
+![Wireframe del Home Psiquiatras](assets/wireframes/Psiquiatras_Home.png)
 **Wireframe del Perfil**
+![Wireframe del Perfil](assets/wireframes/Perfil.png)
 **Wireframe del Agregar Pacientes**
-**Wireframe del Lista Pacientes**
+![Wireframe del Agregar Pacientes](assets/wireframes/Agregar_paciente.png)
 **Wireframe del Configuracion de Pacientes**
-**Wireframe del Citas**
-
+![Wireframe del Configuracion de Pacientes](assets/wireframes/Agregar_paciente.png)
 **Wireframe del Datos del Paciente**
-
+![Wireframe del Datos del Paciente](assets/wireframes/Psiquiatra_config_paciente.png)
 **Wireframe del Test Interdiario**
-
+![Wireframe del Test Interdiario](assets/wireframes/datos_paciente.png)
+**Wireframe del Home paciente**
+![Wireframe del Home paciente](assets/wireframes/Home_Pacient.png)
+**Wireframe del Datos**
+![Wireframe del Datos](assets/wireframes/OpcionesPacientes.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 ![wireflow](assets/Wireflow_wireframe_app.png)
