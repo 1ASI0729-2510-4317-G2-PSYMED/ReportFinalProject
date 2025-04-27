@@ -1,11 +1,81 @@
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
 
-
+Esta guía define las decisiones y acuerdos fundamentales para el desarrollo, mantenimiento y despliegue de la aplicación **PsyMed**, que gestiona el alquiler de vehículos. El objetivo es asegurar la coherencia, eficiencia y calidad a lo largo del ciclo de vida del proyecto.
 
 ### 5.1.1. Software Development Environment Configuration.
 
+<table border="1">
 
+  <tr>
+    <td>Project Management</td>
+    <td>Microsoft 365<br>Alojamiento de los videos de entrevistas, explicación de prototipos y otros relacionados al proyecto</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Whatsapp<br>Red Social destinada a la comunicación donde se realizaron acuerdos y recordatorios de las reuniones.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Trello<br>Software de administración y gestión de proyectos que se utilizó para establecer y designar las tareas</td>
+  </tr>
+  <tr>
+    <td>Requirements Management</td>
+    <td>Structurizr<br>Structurizr es una herramienta de modelado y documentación que permitió el desarrollo de los diagramas C4</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>LucidChart<br>Herramienta de diseño para el modelado de diagramas UML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Miro<br>Herramienta de diseño para la creación de los As-Is y To-Be Scenario Mapping</td>
+  </tr>
+  <tr>
+    <td>Product UX/UI Design</td>
+    <td>Figma<br>Herramienta que se utilizó para la creación de wireframes, mockups y prototipos.</td>
+  </tr>
+  <tr>
+    <td>Software Development</td>
+    <td>Git<br>Es un software de control de versiones para los trabajos en equipos y confiabilidad del desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Node.js<br>Node.js es un entorno de ejecución de JavaScript del lado del servidor, que permite desarrollar aplicaciones web escalables y de alto rendimiento fuera del navegador.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>GitHub<br>Sistema de control de versiones Git.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>HTML5<br>Lenguaje de etiquetas, utilizado para la estructuración y la presentación de contenido.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CSS<br>CSS es un lenguaje utilizado para estilizar y dar formato a documentos HTML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>JavaScript<br>JavaScript es un lenguaje de programación de alto nivel, interpretado y multi-paradigma, utilizado para crear interactividad en páginas web.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>VScode<br>Es un editor de código fuente con extensiones que ayudan al desarrollo.</td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>WebStorm<br>Es un IDE centrado en el desarrollo frontend, por su variedad de herramientas que agilizan el proceso de desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vue.js Framework<br>Framework basado en Single Page Applications para el desarrollo de frontend</td>
+  </tr>
+  <tr>
+    <td>Software Deployment</td>
+    <td>GitHub Pages<br>Plataforma que nos permite realizar el despliegue de nuestro landing page.</td>
+  </tr>
+</table>
 
 ### 5.1.2. Source Code Management.
 
@@ -15,17 +85,53 @@ Para los repositorios se utilizó GitHub, para llevar un registro de los cambios
 - URL del repositorio Report en GitHub: https://github.com/1ASI0729-2510-4317-G2-OpenGG/ReportFinalProject
 - URL del repositorio Landing Page en GitHub: https://github.com/1ASI0729-2510-4317-G2-OpenGG/Landing-Page
 
-### 5.1.3. Source Code Style Guide & Conventions.
+### 5.1.3. Source Code Style Guide & Conventions
 
+Para "**PsyMed**", implementaremos una guía de estilo de código y convenciones utilizando HTML y CSS, buscando implementar una interfaz sencilla e interactica.
 
+**HTML**: Lenguaje que hemos utilizado para el desarrollo de nuestra Landing Page. Este lenguaje utiliza etiquetas para marcar y definir el contenido de la página web. Como textos, imagenes, videos, etc.
+
+Convenciones:
+
+- Se tiene que declarar el tipo de archivo en la primera fila de cada documento ("Doctype HTML o Styles CSS").
+- Las etiquetas deben de mostrarse en minuscula, ya que es más sencillo identificar y por ende, será más sencillo detectar los contenidos para los desarrolladores.
+
+**CSS**: Lenguaje que se vincula a un proyecto, en este caso, proyecyto html, que nos permite dar estilos a los elementos html. Con este lenguaje se pueden crear diseños web agradables e intuitivos para el usuario, que es lo que buscamos lograr en nuestra Landing Page.
 
 ### 5.1.4. Software Deployment Configuration.
 
+![Gherkin1](./assets/US01.png)
+
+![Gherkin2](./assets/US02.png)
+
+![Gherkin3](./assets/US03.png)
+
+![Gherkin4](./assets/US04.png)
+
+![Gherkin5](./assets/US05.png)
+
+![Gherkin6](./assets/US06.png)
+
+![Gherkin7](./assets/US07.png)
+
+![Gherkin8](./assets/US08.png)
+
+![Gherkin9](./assets/US09.png)
+
+![Gherkin10](./assets/US10.png)
+
+![Gherkin11](./assets/US11.png)
+
+![Gherkin12](./assets/US12.png)
+
+![Gherkin13](./assets/US13.png)
+
+![Gherkin14](./assets/US14.png)
+
+![Gherkin15](./assets/US15.png)
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-
-
 
 ### 5.2.1. Sprint 1
 
