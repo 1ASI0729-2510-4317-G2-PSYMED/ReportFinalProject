@@ -376,9 +376,9 @@ Para desarrollar el Empathy Map, hemos basado nuestra información en los datos 
 </p>
 
 ## 2.4. Ubiquitous Language
--User Profile (Perfil del Usuario): Información básica del paciente o profesional de la salud mental, como datos personales, preferencias de notificación y detalles de contacto. Puede incluir también datos de acceso para la plataforma.
+- User Profile (Perfil del Usuario): Información básica del paciente o profesional de la salud mental, como datos personales, preferencias de notificación y detalles de contacto. Puede incluir también datos de acceso para la plataforma.
 
--Treatment Plan (Plan de Tratamiento): Conjunto de recomendaciones, terapias o intervenciones diseñadas por el profesional de la salud mental para ayudar al paciente a mejorar su bienestar, basándose en el diagnóstico y las sesiones previas.
+- Treatment Plan (Plan de Tratamiento): Conjunto de recomendaciones, terapias o intervenciones diseñadas por el profesional de la salud mental para ayudar al paciente a mejorar su bienestar, basándose en el diagnóstico y las sesiones previas.
 
 - Patient (Paciente): Persona que recibe atención profesional en salud mental y cuya evolución es monitoreada a través de la plataforma. El paciente puede registrar su estado emocional y diversos aspectos de su bienestar físico.
 
