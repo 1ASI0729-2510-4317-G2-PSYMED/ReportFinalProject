@@ -73,7 +73,7 @@ Luego, ingresamos a la sección Settings.
 
 <img src="./assets/dep-2.PNG" alt="deploy 2">
 
-Despues, seleccionamos la opción Pages.
+Después, seleccionamos la opción Pages.
 
 <img src="./assets/dep-3.PNG" alt="deploy 3">
 
@@ -87,7 +87,24 @@ Finalmente, escribimos el nombre de nuestro dominio y lo guardamos. Con ello, se
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 1:
 
+| Username (GitHub)             | Nombre                                   |
+|-------------------------------|------------------------------------------|
+| Eduardo Sihuar Ccotarma Ttito | Eduardo Sihuar Ccotarma Ttito            |
+| DiegoSeminario                | Diego Vicente Seminario Castillo         |
+| Yair360                       | Yair Christofer Aru Acevedo              |
+| feg06                         | Ario Joel Chavez Uribe                   |
+| Jhomar Cristián Elias         | Jhomar Cristián Elias Astuyauri Herencia |
+| joel5871                      | Joel Prudencio Alcantara                 |
+
+Report:
+
+<img src="./assets/collab-1.PNG" alt="deploy 5">
+
+Landing Page:
+
+<img src="./assets/collab-2.PNG" alt="deploy 5">
 
 # Conclusiones
 
