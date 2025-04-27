@@ -49,7 +49,15 @@ Para los repositorios se utilizó GitHub, para llevar un registro de los cambios
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
+En esta sección, se evidenciará el deploy de la Landing Page ingresando al siguiente link: 
+- Landing Page: https://1asi0729-2510-4317-g2-opengg.github.io/Landing-Page/
 
+<img src="./assets/evid-1.PNG" alt="evidencia 1">
+<img src="./assets/evid-2.PNG" alt="evidencia 2">
+<img src="./assets/evid-3.PNG" alt="evidencia 3">
+<img src="./assets/evid-4.PNG" alt="evidencia 4">
+<img src="./assets/evid-5.PNG" alt="evidencia 5">
+<img src="./assets/evid-6.PNG" alt="evidencia 6">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
