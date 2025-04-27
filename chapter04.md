@@ -104,7 +104,6 @@ Este flujo comienza en la esquina superior izquierda, atraviesa el contenido pri
 Este recorrido natural permite que la navegación sea clara y eficiente, facilitando el acceso a información clave como diagnósticos, citas médicas y seguimientos de síntomas.
 El diseño adaptable y el uso estratégico del patrón en Z aseguran que, sin importar el dispositivo utilizado, la experiencia de usuario sea constante y centrada en las necesidades de los profesionales como de los pacientes. 
 Estas directrices no solo definen la estética de **Psymed**, sino que también refuerzan nuestro compromiso con un entorno digital accesible, humano y orientado al bienestar mental.
-
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
@@ -153,10 +152,23 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 **Landing Page:** Los usuarios que ingresen a la web estática(landing page) se les proporcionara opciones de navegación para la información que les interese sobre nuestra plataforma web.
 - Un header con una serie de botones que los redirigirá a la sección con la información que buscan.
 - Durante la vista de la web estática, se le mostrará un título que resalte la información que van a ver como los planes, servicios, nosotros o un resumen.
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+![Landing_Page_Wireframe](assets/Landing_Page_wireframe.png)
 
+### 4.3.2. Landing Page Mock-up
+![Landing_Page_Mockup](assets/Landing_Page_Mockups.png)
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
 
+### 4.4.2. Web Applications Wireflow Diagrams
+![wireflow](assets/Wireflow_wireframe_app.png)
+### 4.4.2. Web Applications Mock-ups
 
-
+### 4.4.3. Web Applications User Flow Diagrams
+![User Flow Mockups](assets/Wireflow_MockUps_app.png)
+## 4.5. Web Applications Prototyping
+ [Link del prototipe](https://marvelapp.com/prototype/8j2efjg/screen/95484834)
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
 <p align="center">
