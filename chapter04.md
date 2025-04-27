@@ -160,15 +160,105 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ![Landing_Page_Mockup](assets/Landing_Page_Mockups.png)
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+**Wireframe del Home:**
+**Wireframe del Register:**
+**Wireframe del Login:**
+**Wireframe del Cambio de Contraseña:**
+**Wireframe del Home Psiquiatras**
+**Wireframe del Perfil**
+**Wireframe del Agregar Pacientes**
+**Wireframe del Lista Pacientes**
+**Wireframe del Configuracion de Pacientes**
+**Wireframe del Citas**
+
+**Wireframe del Datos del Paciente**
+
+**Wireframe del Test Interdiario**
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 ![wireflow](assets/Wireflow_wireframe_app.png)
 ### 4.4.2. Web Applications Mock-ups
-
+**Mock-up del Home:**
+![Mock-up del Home](assets/Mockups/HOME.png)
+**Mock-up del Register:**
+![Mock-up del Register](assets/Mockups/REGISTER.png)
+**Mock-up del Login:**
+![Mock-up del Login](assets/Mockups/LOGIN.png)
+**Mock-up del Cambio de Contraseña:**
+![Mock-up del Cambio de Contraseña](assets/Mockups/Cambio_Contraseña.png)
+**Mock-up del Home Psiquiatras**
+![Mock-up del Home Psiquiatras](assets/Mockups/Dashboard.png)
+**Mock-up del Perfil**
+![Mock-up del Perfil](assets/Mockups/Perfil.png)
+**Mock-up del Agregar Pacientes**
+![Mock-up del Agregar Pacientes](assets/Mockups/Agregar_paciente.png)
+**Mock-up del Lista Pacientes**
+![Mock-up del Lista Pacientes](assets/Mockups/Lista_pacientes.png)
+**Mock-up del Configuracion de Pacientes**
+![Mock-up del Configuracion de Pacientes](assets/Mockups/Agregar_paciente.png)
+**Mock-up del Citas**
+![Mock-up del Citas](assets/Mockups/Citas.png)
+**Mock-up del Datos del Paciente**
+![Mock-up del Datos del Paciente](assets/Mockups/Pacient_Terapi.png)
+**Mock-up del Test Interdiario**
+![Mock-up del Test Interdiario](assets/Mockups/datos_paciente.png)
+**Mock-up del Home paciente**
+![Mock-up del Home paciente](assets/Mockups/Pacient-Seccions.png)
+**Mock-up del MoodState**
+![Mock-up del MoodState](assets/Mockups/MoodState.png)
+**Mock-up del BiologicalFuncions**
+![Mock-up del BiologicalFuncions](assets/Mockups/Biolical_Funcions.png)
 ### 4.4.3. Web Applications User Flow Diagrams
 ![User Flow Mockups](assets/Wireflow_MockUps_app.png)
 ## 4.5. Web Applications Prototyping
  [Link del prototipe](https://marvelapp.com/prototype/8j2efjg/screen/95484834)
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+#### System Context Diagram
+
+![C4Model](assets/ContextDiagram.png  )
+
+### 4.6.2. Software Architecture Container Diagrams
+
+#### Container Diagram
+
+![C4Model](assets/ContainerDiagram.png)
+
+### 4.6.3. Software Architecture Components Diagrams
+
+#### Bounded Context Access Diagram
+
+![C4Model](assets/ComponentDiagramAccess.png)
+
+#### Bounded Context Sessions Management Diagram
+
+![C4Model](assets/ComponentDiagramSession.png)
+
+#### Bounded Context Task Management Diagram
+
+![C4Model](assets/ComponentDiagramTask.png)
+
+#### Bounded Context Clinical Management Diagram
+
+![C4Model](assets/ComponentDiagramClinical.png)
+
+#### Bounded Context Tracking Diagram
+
+![C4Model](assets/ComponentDiagramTracking.png)
+
+#### Bounded Context Communication Diagram
+
+![C4Model](assets/ComponentDiagramCommunication.png)
+
+
+
+
+
+
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
 <p align="center">
