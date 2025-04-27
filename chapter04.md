@@ -110,7 +110,7 @@ Estas directrices no solo definen la estética de **Psymed**, sino que también 
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
 <p align="center">
-<img src="/assets/diagrama de clases open.png">
+<img src="/assets/diagrama_de_clases_open.png">
 </p>
 
 ### 4.7.2.Class Dictionary
@@ -133,9 +133,10 @@ __Task__: Clase que contiene las tareas asignadas a los pacientes, su estado y f
 __PatientNotification__: Clase que contiene las notificaciones no vistas por el paciente.<br>
 __PatientMoodAnalytic__: Clase que contiene el análisis mensual del estado de ánimo del paciente.<br>
 __PatientBiologicalAnalytic__: Clase que contiene el análisis mensual de las funciones biológicas del paciente.<br>
+
 ### 4.8. Database Design
 ### 4.8.1 Database Diagram
 <p align="center">
-<img src="/assets/base de datos .png">
+<img src="/assets/base_de_datos%20.png">
 </p>
 
