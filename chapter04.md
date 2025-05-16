@@ -263,9 +263,7 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 
 ## 4.7 Software Object-Oriented Design
 ### 4.7.1. Class Diagrams.
-<p align="center">
-<img src="/assets/diagrama_de_clases_open.jpeg">
-</p>
+![Diagrama de Clases](assets/diagrama_de_clases_open.jpeg)
 
 ### 4.7.2.Class Dictionary
 En esta sección se mostrará el diccionario de las clases, usado para el desarrollo de nuestra app.<br>

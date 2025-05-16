@@ -80,7 +80,7 @@
 
 Para el desarrollo del proyecto, utilizamos la herramienta de Github para la organizacion de las actividades realizadas. El URL del repositorio es el siguiente: 
 
-Github: https://github.com/orgs/G2-UPC-1ASI0729-OpenGG/repositories
+Github: https://github.com/orgs/1ASI0729-2510-4317-G2-OpenGG/repositories
 
 # Contenido
 ## Tabla de Contenidos

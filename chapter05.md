@@ -239,32 +239,35 @@ Convenciones:
         </td>
   </tr>
 </table>
-</br>
-
-
-
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+| Username (GitHub)             | Nombre                                   |
+|-------------------------------|------------------------------------------|
+| Eduardo Sihuar Ccotarma Ttito | Eduardo Sihuar Ccotarma Ttito            |
+| DiegoSeminario                | Diego Vicente Seminario Castillo         |
+| Yair360                       | Yair Christofer Aru Acevedo              |
+| feg06                         | Ario Joel Chavez Uribe                   |
+| Jhomar Cristián Elias         | Jhomar Cristián Elias Astuyauri Herencia |
+| joel5871                      | Joel Prudencio Alcantara                 |
 
 #### 5.2.1.3. Sprint Backlog 1
 
 | **HU** | **Tarea** | **TID** | **Descripción de la tarea** | **Detalle** | **Horas estimadas** | **Autor** | **Estado** |
 |--------|-----------|---------|-----------------------------|-------------|---------------------|-----------|------------|
-| HU01   | Desarrollo de sección de contacto | T01     | Agregar detalles de la sección de contacto | Desarrollar y diseñar la sección de contacto en la página | 3.0                 | Jhomar | Done |
-|        |           | T02     | Conectar formulario de contacto con API | Configurar backend para enviar datos del formulario de contacto | 3.0                 | Jhomar | Done |
+| HU01   | Desarrollo de sección de contacto | T01     | Agregar detalles de la sección de contacto | Desarrollar y diseñar la sección de contacto en la página | 4                   | Jhomar | Done |
+|        |           | T02     | Conectar formulario de contacto con API | Configurar backend para enviar datos del formulario de contacto | 6                   | Jhomar | Done |
 | HU02   | Mejorar copywriting en todas las secciones | T03     | Actualizar textos de las secciones | Revisar y actualizar los textos de las secciones en la Landing Page | 4                   | Jhomar | Done |
-|        |           | T04     | Revisión final de copys | Revisar el estilo y tono de los textos en todas las secciones | 1.0                 | Jhomar | Done |
-| HU03   | Agregar testimonios de clientes | T05     | Diseñar sección de testimonios | Crear el diseño y la estructura de la sección de testimonios | 5                   | Jhomar | Done |
+|        |           | T04     | Revisión final de copys | Revisar el estilo y tono de los textos en todas las secciones | 5                   | Jhomar | Done |
+| HU03   | Agregar testimonios de clientes | T05     | Diseñar sección de testimonios | Crear el diseño y la estructura de la sección de testimonios | 6                   | Jhomar | Done |
 |        |           | T06     | Conectar testimonios con base de datos | Configurar la base de datos para almacenar y mostrar testimonios | 6                   | Jhomar | Done |
-| HU04   | Agregar sección de beneficios y propuesta de valor | T07     | Crear estructura de sección de beneficios | Diseñar la estructura y contenido de la sección de beneficios | 2.0                 | Ario | Done |
+| HU04   | Agregar sección de beneficios y propuesta de valor | T07     | Crear estructura de sección de beneficios | Diseñar la estructura y contenido de la sección de beneficios | 5                   | Ario | Done |
 |        |           | T08     | Implementar contenido de beneficios | Agregar los beneficios y ventajas a la sección de beneficios | 4                   | Ario | Done |
-| HU05   | Mejorar la sección "About Us" | T09     | Revisar contenido de "About Us" | Actualizar el contenido y diseño de la sección "About Us" | 4                   | Jhomar | Done |
+| HU05   | Mejorar la sección "About Us" | T09     | Revisar contenido de "About Us" | Actualizar el contenido y diseño de la sección "About Us" | 6                   | Jhomar | Done |
 |        |           | T10     | Conectar API con contenido de "About Us" | Configurar backend para mostrar información de la sección | 5                   | Diego Seminario | Done |
 | HU06   | Desarrollar la introducción y llamada a la acción (Header) | T11     | Diseñar Header con CTA | Desarrollar y diseñar la cabecera con llamada a la acción | 6                   | Sihuar | Done |
 |        |           | T12     | Programar interactividad del CTA | Implementar la interactividad en la llamada a la acción | 4                   | Sihuar | Done |
-| HU07   | Contenido "What is it about?" | T13     | Agregar contenido descriptivo | Desarrollar contenido explicativo para la sección | 3                   | Diego Seminario | Done |
-|        |           | T14     | Incorporar imágenes | Agregar imágenes relevantes a la sección | 1.5                 | Yair | Done |
-
+| HU07   | Contenido "What is it about?" | T13     | Agregar contenido descriptivo | Desarrollar contenido explicativo para la sección | 5                   | Diego Seminario | Done |
+|        |           | T14     | Incorporar imágenes | Agregar imágenes relevantes a la sección | 5                   | Yair | Done |
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
@@ -282,7 +285,6 @@ Repositorio de la Landing Page en GitHub: <a href="https://1asi0729-2510-4317-g2
 | PSYMED         | develop | 2bc526028cd6f873c0261424960e18e1a06af480 | Sihuar | chore: add gitignore | 3 days ago |
 | PSYMED         | feature/description_startup | 2a188277e507357b9d34f0066082336d718f0ffc | Sihuar  | 3 days ago |
 | PSYMED         | feature/Introduccion-call_to_action-header | a639476ca75e0f61f993c9c59fe9560ac6dca003 | Sihuar  | 3 days ago |
-
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
@@ -327,26 +329,16 @@ Finalmente, escribimos el nombre de nuestro dominio y lo guardamos. Con ello, se
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 1:
-
-| Username (GitHub)             | Nombre                                   |
-|-------------------------------|------------------------------------------|
-| Eduardo Sihuar Ccotarma Ttito | Eduardo Sihuar Ccotarma Ttito            |
-| DiegoSeminario                | Diego Vicente Seminario Castillo         |
-| Yair360                       | Yair Christofer Aru Acevedo              |
-| feg06                         | Ario Joel Chavez Uribe                   |
-| Jhomar Cristián Elias         | Jhomar Cristián Elias Astuyauri Herencia |
-| joel5871                      | Joel Prudencio Alcantara                 |
-
 Report:
-
 <img src="./assets/collab-1.PNG" alt="deploy 5">
 
 Landing Page:
 
 <img src="./assets/collab-2.PNG" alt="deploy 5">
 
-#### 5.2.2.2. Sprint Planning 2.
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
 <table align="center"  border="1" width="90%" style="text-align:center;">
     <tr align="left">
         <td>
@@ -449,7 +441,71 @@ Landing Page:
         </td>
   </tr>
 </table>
-</br>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+| Username (GitHub)             | Nombre                                   |
+|-------------------------------|------------------------------------------|
+| Eduardo Sihuar Ccotarma Ttito | Eduardo Sihuar Ccotarma Ttito            |
+| DiegoSeminario                | Diego Vicente Seminario Castillo         |
+| Yair360                       | Yair Christofer Aru Acevedo              |
+| feg06                         | Ario Joel Chavez Uribe                   |
+| Jhomar Cristián Elias         | Jhomar Cristián Elias Astuyauri Herencia |
+| joel5871                      | Joel Prudencio Alcantara                 |
+
+#### 5.2.2.3. Sprint Backlog 1
+
+| **HU** | **Tarea** | **TID** | **Descripción de la tarea** | **Detalle** | **Horas estimadas** | **Autor** | **Estado** |
+|--------|-----------|---------|-----------------------------|-------------|---------------------|-----------|------------|
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+
+| **Repository** | **Branch** | **Commit ID** | **Author** | **Time ago** |
+|----------------|------------|---------------|------------|--------------|
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Para este primer Sprint, solo se implementa y despliega la Landing Page, por lo que no se utilizó endpoints.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Durante el desarrollo de este Sprint, se logró desplegar exitosamente la Landing Page de PsyMed. Esto permitirá que los posibles usuarios puedan informarse sobre nuestra plataforma y aumentar su interes en la misma. Además de proporcionar la posibilidad de enviarnos un mensaje directo por si tiene alguna duda en especifico. Para el correcto despliegue se utilizó GitHub Pages.
+
+Primero, ingresamos a los repositorios de la organización y seleccionamos la de la Landing Page.
+
+<img src="./assets/dep-1.PNG" alt="deploy 1">
+
+Luego, ingresamos a la sección Settings.
+
+<img src="./assets/dep-2.PNG" alt="deploy 2">
+
+Después, seleccionamos la opción Pages.
+
+<img src="./assets/dep-3.PNG" alt="deploy 3">
+
+Dentro de Pages, seleccionamos el source y elegimos la opcion "Deploy from a branch", luego seleccionamos la rama y lo guardamos.
+
+<img src="./assets/dep-4.PNG" alt="deploy 4">
+
+Finalmente, escribimos el nombre de nuestro dominio y lo guardamos. Con ello, se realiza el deployment de la Landing Page.
+
+<img src="./assets/dep-5.PNG" alt="deploy 5">
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 1:
+Report:
+<img src="./assets/collab-1.PNG" alt="deploy 5">
+
+Landing Page:
+
+<img src="./assets/collab-2.PNG" alt="deploy 5">
+
+
 # Conclusiones
 
 <br>El impacto de "PsyMed" va más allá de la digitalización de procesos; busca contribuir a la mejora de la atención médica en salud mental en Perú, disminuyendo la carga administrativa de los profesionales y elevando la calidad del servicio ofrecido a los pacientes. Además, el modelo de negocio propuesto sostiene el crecimiento económico del proyecto mediante licencias y suscripciones, asegurando su viabilidad a largo plazo.<br>

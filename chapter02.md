@@ -12,10 +12,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/chapter02/psymed_logo.svg" alt="PsyMed"></td>
-    <td>TherapyNotes<br><img src="/assets/chapter02/competitors/TherapyNotes.png" alt="TherapyNotes"></td>
-    <td>Teladoc<br><img src="/assets/chapter02/competitors/Teladoc.png" alt="Teladoc"></td>
-    <td>Talkspace<br><img src="/assets/chapter02/competitors/Talkspace.png" alt="Talkspace"></td>
+    <td>PsyMed<br><img src="assets/chapter02/psymed_logo.svg" alt="PsyMed"></td>
+    <td>TherapyNotes<br><img src="assets/chapter02/competitors/TherapyNotes.png" alt="TherapyNotes"></td>
+    <td>Teladoc<br><img src="assets/chapter02/competitors/Teladoc.png" alt="Teladoc"></td>
+    <td>Talkspace<br><img src="assets/chapter02/competitors/Talkspace.png" alt="Talkspace"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -116,7 +116,7 @@ Lo que reforzará la confianza de nuestros clientes y nos permitirá competir ef
 Entrevistado 1:
 
 <div align="center">
-  <img src="/assets/chapter02/interviews/interview1PR.png">
+  <img src="assets/chapter02/interviews/interview1PR.png">
 </div>
 
 | Nombre               | Lucia                                                                                                                                                                                                                                                                                                                                  |
@@ -142,7 +142,7 @@ Por otro lado, mencionó el valor en que esta tecnología genere un historial ú
 Entrevistado 2:
 
 <div align="center">
-  <img src="/assets/chapter02/interviews/interview2PR.png">
+  <img src="assets/chapter02/interviews/interview2PR.png">
 </div>
 
 | Nombre               | Guisela                                                                                                                                                                                                                                                                                                                                |
@@ -164,7 +164,7 @@ Actualmente, gestiona la información de sus pacientes utilizando Excel, debido 
 Entrevistado 3:
 
 <div align="center">
-  <img src="/assets/chapter02/interviews/interview3PR.png">
+  <img src="assets/chapter02/interviews/interview3PR.png">
 </div>
 
 | Nombre               | Sara                                                                                                                                                                                                                                                                                                                                |
@@ -188,7 +188,7 @@ Sara menciona que no ha utilizado plataformas pagadas para la gestión de pacien
 Entrevistado 1:
 
 <div align=center>
-    <img src="/assets/chapter02/interviews/interview1.png">
+    <img src="assets/chapter02/interviews/interview1.png">
 </div>
 
 | Nombre               | Uriel                                                                                                                                                                                                                                                                                                                                  |
@@ -213,7 +213,7 @@ No tiene preocupaciones sobre la privacidad de su información en la plataforma,
 Entrevistado 2:
 
 <div align=center>
-    <img src="/assets/chapter02/interviews/interview2.png">
+    <img src="assets/chapter02/interviews/interview2.png">
 </div>
 
 | Nombre               | Luigi                                                                                                                                                                                                                                                                                                                                 |
@@ -238,7 +238,7 @@ Mostró especial interés en poder realizar sesiones virtuales, valorando la com
 Entrevistado 3:
 
 <div align=center>
-    <img src="/assets/chapter02/interviews/interview3.png">
+    <img src="assets/chapter02/interviews/interview3.png">
 </div>
 
 | Nombre               | Guillermo                                                                                                                                                                                                                                                                                                                                |
