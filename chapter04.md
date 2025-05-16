@@ -184,8 +184,6 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ![Wireframe del Home paciente](assets/wireframes/Home_Pacient.png)
 **Wireframe del Datos**
 ![Wireframe del Datos](assets/wireframes/OpcionesPacientes.png)
-### 4.4.2. Web Applications Wireflow Diagrams
-![wireflow](assets/Wireflow_wireframe_app.png)
 ### 4.4.2. Web Applications Mock-ups
 **Mock-up del Home:**
 ![Mock-up del Home](assets/Mockups/HOME.png)
@@ -218,17 +216,15 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 **Mock-up del BiologicalFuncions**
 ![Mock-up del BiologicalFuncions](assets/Mockups/Biolical_Funcions.png)
 ### 4.4.3. Web Applications User Flow Diagrams
-![User Flow Mockups](assets/Wireflow_MockUps_app.png)
+![WEB](assets/chapter04/Group53.png)
+![WEB](assets/chapter04/Group54.png)
+![WEB](assets/chapter04/Group58.png)
+![WEB](assets/chapter04/Group59.png)
+![WEB](assets/chapter04/Group60.png)
+![WEB](assets/chapter04/Group61.png)
+![WEB](assets/chapter04/Group62.png)
 ## 4.5. Web Applications Prototyping
  [Link del prototipe](https://marvelapp.com/prototype/8j2efjg/screen/95484834)
-
-![WEB](assets/chapter04/Group%2053.png)
-![WEB](assets/chapter04/Group%2054.png)
-![WEB](assets/chapter04/Group%2058.png)
-![WEB](assets/chapter04/Group%2059.png)
-![WEB](assets/chapter04/Group%2060.png)
-![WEB](assets/chapter04/Group%2061.png)
-![WEB](assets/chapter04/Group%2062.png)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram

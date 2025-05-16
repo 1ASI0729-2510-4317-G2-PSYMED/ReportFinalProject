@@ -522,37 +522,38 @@ Puedes acceder a nuestra fake API en el siguiente enlace: [JSON Server - PsyMed]
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Durante el desarrollo de este Sprint, se logró desplegar exitosamente la Landing Page de PsyMed. Esto permitirá que los posibles usuarios puedan informarse sobre nuestra plataforma y aumentar su interes en la misma. Además de proporcionar la posibilidad de enviarnos un mensaje directo por si tiene alguna duda en especifico. Para el correcto despliegue se utilizó GitHub Pages.
+Durante el desarrollo de este Sprint, se logró desplegar exitosamente el Frontend de PsyMed. Esto permitirá que los posibles usuarios puedan interactuar con nuestra plataforma de manera satisfactoria y lograr su atención. Además de la posibilidad de interactuar un mensaje directo por si tiene alguna duda en especifico. Para el correcto despliegue se utilizó Vercel.
 
-Primero, ingresamos a los repositorios de la organización y seleccionamos la de la Landing Page.
+Primero, ingresamos a los repositorios de la organización y seleccionamos la de nuestro Frontend.
 
-<img src="./assets/dep-1.PNG" alt="deploy 1">
+<img src="./assets/depfront-1.PNG" alt="deploy 1">
 
 Luego, ingresamos a la sección Settings.
 
-<img src="./assets/dep-2.PNG" alt="deploy 2">
+<img src="./assets/depfront-2.PNG" alt="deploy 2">
 
 Después, seleccionamos la opción Pages.
 
-<img src="./assets/dep-3.PNG" alt="deploy 3">
+<img src="./assets/depfront-3.PNG" alt="deploy 3">
 
 Dentro de Pages, seleccionamos el source y elegimos la opcion "Deploy from a branch", luego seleccionamos la rama y lo guardamos.
 
-<img src="./assets/dep-4.PNG" alt="deploy 4">
+<img src="./assets/depfront-4.PNG" alt="deploy 4">
 
 Finalmente, escribimos el nombre de nuestro dominio y lo guardamos. Con ello, se realiza el deployment de la Landing Page.
 
-<img src="./assets/dep-5.PNG" alt="deploy 5">
+<img src="./assets/depfront-5.PNG" alt="deploy 5">
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 1:
+En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 2:
+
 Report:
-<img src="./assets/collab-1.PNG" alt="deploy 5">
+<img src="./assets/collabfront-1.png" alt="report front 1">
 
-Landing Page:
+Frontend:
 
-<img src="./assets/collab-2.PNG" alt="deploy 5">
+<img src="./assets/collabfront-2.png" alt="deploy front 1">
 
 
 # Conclusiones
