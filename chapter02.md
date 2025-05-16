@@ -125,7 +125,7 @@ Lo que reforzará la confianza de nuestros clientes y nos permitirá competir ef
   - ¿Qué tan familiarizado está con el uso de plataformas digitales?
   - ¿Cuál es el perfil de pacientes que usted atiende?
   - ¿Qué dificultades tienes al atender a tus pacientes?
-  - ¿Qué factores determinan que un paciente busque ayuda psicológica y cuál es la diferencia con el manejo con un psiquiatra?
+  - ¿Qué factores determinan que un paciente busque ayuda psicológica y cuál es la diferencia con el manejo con un profesional de salud mental?
   - ¿Cómo se lleva a cabo la evaluación de un paciente nuevo?
   - ¿Cómo se determina un diagnóstico y cuánto tiempo toma?
   - ¿Cómo se decide el plan de tratamiento para un paciente?
@@ -137,7 +137,7 @@ Lo que reforzará la confianza de nuestros clientes y nos permitirá competir ef
 - **Preguntas Objetivas:**
   - ¿Cuál es el navegador que más utilizas?
   - ¿Qué herramienta usas más seguido? Tablets, celulares, laptops, smartwatch, etc.
-  - ¿Qué tan seguido interactúas con tu terapeuta, psicólogo o psiquiatra? (Sesiones, chats, llamadas, etc.)
+  - ¿Qué tan seguido interactúas con tu terapeuta,o tu profesional de salud mental? (Sesiones, chats, llamadas, etc.)
   - ¿Has utilizado alguna vez una plataforma digital para gestionar tus citas o tratamientos médicos? Si es así, ¿cómo fue tu experiencia? ¿Qué aspectos te resultaron más útiles o frustrantes?
   - ¿Te sentirías cómodo utilizando una plataforma digital para interactuar con tu profesional de la salud mental?
   - ¿Qué información te gustaría tener visible en la plataforma? Por ejemplo, citas, recordatorios de medicamentos, notas de las sesiones, etc.
