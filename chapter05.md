@@ -241,26 +241,29 @@ Convenciones:
 </table>
 </br>
 
+
+
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 #### 5.2.1.3. Sprint Backlog 1
 
 | **HU** | **Tarea** | **TID** | **Descripción de la tarea** | **Detalle** | **Horas estimadas** | **Autor** | **Estado** |
 |--------|-----------|---------|-----------------------------|-------------|---------------------|-----------|------------|
-| HU01   | Desarrollo de sección de contacto | T01     | Agregar detalles de la sección de contacto | Desarrollar y diseñar la sección de contacto en la página | 2.0 | Jhomar | Done |
-|        |           | T02     | Conectar formulario de contacto con API | Configurar backend para enviar datos del formulario de contacto | 3.0 | Jhomar | Done |
-| HU02   | Mejorar copywriting en todas las secciones | T03     | Actualizar textos de las secciones | Revisar y actualizar los textos de las secciones en la Landing Page | 1.5 | Jhomar | Done |
-|        |           | T04     | Revisión final de copys | Revisar el estilo y tono de los textos en todas las secciones | 1.0 | Jhomar | Done |
-| HU03   | Agregar testimonios de clientes | T05     | Diseñar sección de testimonios | Crear el diseño y la estructura de la sección de testimonios | 2.5 | Jhomar | Done |
-|        |           | T06     | Conectar testimonios con base de datos | Configurar la base de datos para almacenar y mostrar testimonios | 2.0 | Jhomar | Done |
-| HU04   | Agregar sección de beneficios y propuesta de valor | T07     | Crear estructura de sección de beneficios | Diseñar la estructura y contenido de la sección de beneficios | 2.0 | Ario | Done |
-|        |           | T08     | Implementar contenido de beneficios | Agregar los beneficios y ventajas a la sección de beneficios | 3.0 | Ario | Done |
-| HU05   | Mejorar la sección "About Us" | T09     | Revisar contenido de "About Us" | Actualizar el contenido y diseño de la sección "About Us" | 2.5 | Jhomar | Done |
-|        |           | T10     | Conectar API con contenido de "About Us" | Configurar backend para mostrar información de la sección | 2.5 | Diego Seminario | Done |
-| HU06   | Desarrollar la introducción y llamada a la acción (Header) | T11     | Diseñar Header con CTA | Desarrollar y diseñar la cabecera con llamada a la acción | 2.0 | Sihuar | Done |
-|        |           | T12     | Programar interactividad del CTA | Implementar la interactividad en la llamada a la acción | 2.0 | Sihuar | Done |
-| HU07   | Contenido "What is it about?" | T13     | Agregar contenido descriptivo | Desarrollar contenido explicativo para la sección | 2.5 | Diego Seminario | Done |
-|        |           | T14     | Incorporar imágenes | Agregar imágenes relevantes a la sección | 1.5 | Yair | Done |
+| HU01   | Desarrollo de sección de contacto | T01     | Agregar detalles de la sección de contacto | Desarrollar y diseñar la sección de contacto en la página | 3.0                 | Jhomar | Done |
+|        |           | T02     | Conectar formulario de contacto con API | Configurar backend para enviar datos del formulario de contacto | 3.0                 | Jhomar | Done |
+| HU02   | Mejorar copywriting en todas las secciones | T03     | Actualizar textos de las secciones | Revisar y actualizar los textos de las secciones en la Landing Page | 4                   | Jhomar | Done |
+|        |           | T04     | Revisión final de copys | Revisar el estilo y tono de los textos en todas las secciones | 1.0                 | Jhomar | Done |
+| HU03   | Agregar testimonios de clientes | T05     | Diseñar sección de testimonios | Crear el diseño y la estructura de la sección de testimonios | 5                   | Jhomar | Done |
+|        |           | T06     | Conectar testimonios con base de datos | Configurar la base de datos para almacenar y mostrar testimonios | 6                   | Jhomar | Done |
+| HU04   | Agregar sección de beneficios y propuesta de valor | T07     | Crear estructura de sección de beneficios | Diseñar la estructura y contenido de la sección de beneficios | 2.0                 | Ario | Done |
+|        |           | T08     | Implementar contenido de beneficios | Agregar los beneficios y ventajas a la sección de beneficios | 4                   | Ario | Done |
+| HU05   | Mejorar la sección "About Us" | T09     | Revisar contenido de "About Us" | Actualizar el contenido y diseño de la sección "About Us" | 4                   | Jhomar | Done |
+|        |           | T10     | Conectar API con contenido de "About Us" | Configurar backend para mostrar información de la sección | 5                   | Diego Seminario | Done |
+| HU06   | Desarrollar la introducción y llamada a la acción (Header) | T11     | Diseñar Header con CTA | Desarrollar y diseñar la cabecera con llamada a la acción | 6                   | Sihuar | Done |
+|        |           | T12     | Programar interactividad del CTA | Implementar la interactividad en la llamada a la acción | 4                   | Sihuar | Done |
+| HU07   | Contenido "What is it about?" | T13     | Agregar contenido descriptivo | Desarrollar contenido explicativo para la sección | 3                   | Diego Seminario | Done |
+|        |           | T14     | Incorporar imágenes | Agregar imágenes relevantes a la sección | 1.5                 | Yair | Done |
 
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
@@ -342,6 +345,111 @@ Landing Page:
 
 <img src="./assets/collab-2.PNG" alt="deploy 5">
 
+#### 5.2.2.2. Sprint Planning 2.
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            16/05/25   
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            10:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Remota por Whatsapp  
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes OpenGG 
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Chavez Uribe, Ario Joel	<br>
+            - Yair Christofer Aru Acevedo <br>
+            - Diego Vicente Seminario Castillo <br>
+            - Astuyauri Herencia Jhomar Cristian Elias <br>
+            - Ccotarma Ttito Sihuar Eduardo Eusebio <br>
+            - Joel Gerson Prudencio Alcantara <br>
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Creación de un nuevo repositorio para el Frontend y asignación de tareas para implementar sus funciones para los pacientes y profesionales de salud mental.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+          Realización de la primera versión del Landing y documentación de las tareas y los cambios realizados
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+  </tr>
+</table>
+</br>
 # Conclusiones
 
 <br>El impacto de "PsyMed" va más allá de la digitalización de procesos; busca contribuir a la mejora de la atención médica en salud mental en Perú, disminuyendo la carga administrativa de los profesionales y elevando la calidad del servicio ofrecido a los pacientes. Además, el modelo de negocio propuesto sostiene el crecimiento económico del proyecto mediante licencias y suscripciones, asegurando su viabilidad a largo plazo.<br>
