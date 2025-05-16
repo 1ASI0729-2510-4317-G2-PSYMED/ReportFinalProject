@@ -516,10 +516,9 @@ Durante el **Sprint 2**, el enfoque principal se centró en el desarrollo del **
 - Los **servicios** necesarios para la comunicación con los datos.
 - Integración con una **fake API** para simular operaciones reales dentro de la aplicación.
 
-Puedes acceder a nuestra fake API en el siguiente enlace:  
-[JSON Server - PsyMed](https://json-server-psymed.vercel.app/)
+Puedes acceder a nuestra fake API en el siguiente enlace: [JSON Server - PsyMed](https://json-server-psymed.vercel.app/)
 
-<img src="./assets/json-image.PNG" alt="json server image">
+<img src="./assets/json-image.png" alt="json-image">
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
