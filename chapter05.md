@@ -522,27 +522,24 @@ Puedes acceder a nuestra fake API en el siguiente enlace: [JSON Server - PsyMed]
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Durante el desarrollo de este Sprint, se logró desplegar exitosamente el Frontend de PsyMed. Esto permitirá que los posibles usuarios puedan interactuar con nuestra plataforma de manera satisfactoria y lograr su atención. Además de la posibilidad de interactuar un mensaje directo por si tiene alguna duda en especifico. Para el correcto despliegue se utilizó Vercel.
+Durante el desarrollo de este Sprint, se logró desplegar exitosamente el Frontend de PsyMed. Esto permitirá que los posibles usuarios puedan interactuar con nuestra plataforma de manera satisfactoria y lograr su atención. Además de la posibilidad de interactuar un mensaje directo por si tiene alguna duda en especifico. Para el correcto despliegue se utilizó Netlify.
 
-Primero, ingresamos a los repositorios de la organización y seleccionamos la de nuestro Frontend.
+Primero, ingresamos a la configuración de Netlify y seleccionamos la de nuestro Frontend.
 
 <img src="./assets/depfront-1.PNG" alt="deploy 1">
 
-Luego, ingresamos a la sección Settings.
+Luego, ingresamos a la sección Deploys.
 
 <img src="./assets/depfront-2.PNG" alt="deploy 2">
 
-Después, seleccionamos la opción Pages.
+Después, En proyect configuración, llamamos a la aplicación para su visualización.
 
 <img src="./assets/depfront-3.PNG" alt="deploy 3">
 
-Dentro de Pages, seleccionamos el source y elegimos la opcion "Deploy from a branch", luego seleccionamos la rama y lo guardamos.
+Finalmente, cargamos el proyecto y vemos el resultado
 
 <img src="./assets/depfront-4.PNG" alt="deploy 4">
 
-Finalmente, escribimos el nombre de nuestro dominio y lo guardamos. Con ello, se realiza el deployment de la Landing Page.
-
-<img src="./assets/depfront-5.PNG" alt="deploy 5">
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
