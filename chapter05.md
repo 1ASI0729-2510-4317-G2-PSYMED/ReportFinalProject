@@ -541,12 +541,42 @@ Landing Page:
 
 # Conclusiones
 
-<br>El impacto de "PsyMed" va más allá de la digitalización de procesos; busca contribuir a la mejora de la atención médica en salud mental en Perú, disminuyendo la carga administrativa de los profesionales y elevando la calidad del servicio ofrecido a los pacientes. Además, el modelo de negocio propuesto sostiene el crecimiento económico del proyecto mediante licencias y suscripciones, asegurando su viabilidad a largo plazo.<br>
+**TB1:**
+La primera entrega del proyecto Psymed ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que guió la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
 
-<br>El equipo utilizó enfoques ágiles, como el Lean UX Process, Impact Mapping, y la elaboración de un detallado Product Backlog y User Stories. Esto permitió definir con claridad las funcionalidades prioritarias de la plataforma, alineándolas con los objetivos de negocio y las necesidades de los usuarios, asegurando un producto escalable, especializado y con alto valor agregado para el sector de salud mental.<br>
+**TP1:**
+En esta segunda entrega, se logró implementar una mejora continua basada en las observaciones y aprendizajes obtenidos durante la primera entrega. A partir de dichas consideraciones, se diseñó y ejecutó el Sprint 2, lo cual permitió avanzar en la creación y diseño de la primera versión del frontend. Asimismo, se completó exitosamente el deploy tanto del frontend como de la API mediante json-server, lo que permitió validar la funcionalidad y la comunicación entre los componentes sin depender de un backend completo. Este enfoque ágil contribuyó a una evolución efectiva del proyecto, manteniendo la calidad y la eficiencia en cada etapa del desarrollo.
 
 # Bibliografía
+Contributors, M. o. J. T. A. B. (s.f.). Bootstrap. https://getbootstrap.com/
+
+Conventional commits. (s.f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
+
+Figma Community: Explore templates, plugins, and widgets published by the community. (s. f.). Figma. https://www.figma.com/community
+
+Free Line Icons for Designers and Developers - Lineicons. (2021, 23 mayo). Lineicons. https://lineicons.com/
+
+Pallerols, X. M. (2022, 18 noviembre). Qué es el Responsive Design y por qué tu web debería serlo. Thinking For Innovation. https://www.iebschool.com/blog/que-es-responsive-web-design-analitica-usabilidad/
+
+Vue.js. (s.f.). The Progressive JavaScript Framework | Vue.js. https://vuejs.org/
+
+npm: json-server. (s.f.). Npm. https://www.npmjs.com/package/json-server
+
+Dashboard. (s.f.). Vercel. https://vercel.com/guardiandeitys-projects
 
 
 
 # Anexos
+Entevistas: [Entrevistas hechas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/Ee7CIOQMlkxJhj-bC7_g3N0Bs9_gFqaSF9CBj9IS1hkSGQ?e=1CWcrr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Repositorio: https://github.com/1ASI0729-2510-4317-G2-OpenGG
+
+Landing Page: https://1asi0729-2510-4317-g2-opengg.github.io/Landing-Page/
+
+figma: https://www.figma.com/design/Vz60AoPOo718hrLAxbAB02/Open-Source-psymed-OPGG?node-id=61-79&t=hoCqkbgGZ3OU4gT4-1
+
+canvas ppt: https://www.canva.com/design/DAGlvhfxT8o/lS45yxlZMDVOQFJaOsvwnw/edit?utm_content=DAGlvhfxT8o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Fake Api: https://json-server-psymed.vercel.app/
+
+trello: https://trello.com/b/pDKhIadm/app-web
