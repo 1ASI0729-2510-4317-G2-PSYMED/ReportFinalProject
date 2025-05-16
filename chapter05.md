@@ -252,21 +252,21 @@ Convenciones:
 
 #### 5.2.1.3. Sprint Backlog 1
 
-| **HU** | **Tarea** | **TID** | **Descripción de la tarea** | **Detalle** | **Horas estimadas** | **Autor** | **Estado** |
+| **US** | **Tarea** | **TID** | **Descripción de la tarea** | **Detalle** | **Horas estimadas** | **Autor** | **Estado** |
 |--------|-----------|---------|-----------------------------|-------------|---------------------|-----------|------------|
-| HU01   | Desarrollo de sección de contacto | T01     | Agregar detalles de la sección de contacto | Desarrollar y diseñar la sección de contacto en la página | 4                   | Jhomar | Done |
+| US01   | Desarrollo de sección de contacto | T01     | Agregar detalles de la sección de contacto | Desarrollar y diseñar la sección de contacto en la página | 4                   | Jhomar | Done |
 |        |           | T02     | Conectar formulario de contacto con API | Configurar backend para enviar datos del formulario de contacto | 6                   | Jhomar | Done |
-| HU02   | Mejorar copywriting en todas las secciones | T03     | Actualizar textos de las secciones | Revisar y actualizar los textos de las secciones en la Landing Page | 4                   | Jhomar | Done |
+| US02   | Mejorar copywriting en todas las secciones | T03     | Actualizar textos de las secciones | Revisar y actualizar los textos de las secciones en la Landing Page | 4                   | Jhomar | Done |
 |        |           | T04     | Revisión final de copys | Revisar el estilo y tono de los textos en todas las secciones | 5                   | Jhomar | Done |
-| HU03   | Agregar testimonios de clientes | T05     | Diseñar sección de testimonios | Crear el diseño y la estructura de la sección de testimonios | 6                   | Jhomar | Done |
+| US03   | Agregar testimonios de clientes | T05     | Diseñar sección de testimonios | Crear el diseño y la estructura de la sección de testimonios | 6                   | Jhomar | Done |
 |        |           | T06     | Conectar testimonios con base de datos | Configurar la base de datos para almacenar y mostrar testimonios | 6                   | Jhomar | Done |
-| HU04   | Agregar sección de beneficios y propuesta de valor | T07     | Crear estructura de sección de beneficios | Diseñar la estructura y contenido de la sección de beneficios | 5                   | Ario | Done |
+| US04   | Agregar sección de beneficios y propuesta de valor | T07     | Crear estructura de sección de beneficios | Diseñar la estructura y contenido de la sección de beneficios | 5                   | Ario | Done |
 |        |           | T08     | Implementar contenido de beneficios | Agregar los beneficios y ventajas a la sección de beneficios | 4                   | Ario | Done |
-| HU05   | Mejorar la sección "About Us" | T09     | Revisar contenido de "About Us" | Actualizar el contenido y diseño de la sección "About Us" | 6                   | Jhomar | Done |
+| US05   | Mejorar la sección "About Us" | T09     | Revisar contenido de "About Us" | Actualizar el contenido y diseño de la sección "About Us" | 6                   | Jhomar | Done |
 |        |           | T10     | Conectar API con contenido de "About Us" | Configurar backend para mostrar información de la sección | 5                   | Diego Seminario | Done |
-| HU06   | Desarrollar la introducción y llamada a la acción (Header) | T11     | Diseñar Header con CTA | Desarrollar y diseñar la cabecera con llamada a la acción | 6                   | Sihuar | Done |
+| US06   | Desarrollar la introducción y llamada a la acción (Header) | T11     | Diseñar Header con CTA | Desarrollar y diseñar la cabecera con llamada a la acción | 6                   | Sihuar | Done |
 |        |           | T12     | Programar interactividad del CTA | Implementar la interactividad en la llamada a la acción | 4                   | Sihuar | Done |
-| HU07   | Contenido "What is it about?" | T13     | Agregar contenido descriptivo | Desarrollar contenido explicativo para la sección | 5                   | Diego Seminario | Done |
+| US07   | Contenido "What is it about?" | T13     | Agregar contenido descriptivo | Desarrollar contenido explicativo para la sección | 5                   | Diego Seminario | Done |
 |        |           | T14     | Incorporar imágenes | Agregar imágenes relevantes a la sección | 5                   | Yair | Done |
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
@@ -452,10 +452,43 @@ Landing Page:
 | Jhomar Cristián Elias         | Jhomar Cristián Elias Astuyauri Herencia |
 | joel5871                      | Joel Prudencio Alcantara                 |
 
-#### 5.2.2.3. Sprint Backlog 1
+#### 5.2.2.3. Sprint Backlog 2
 
-| **HU** | **Tarea** | **TID** | **Descripción de la tarea** | **Detalle** | **Horas estimadas** | **Autor** | **Estado** |
-|--------|-----------|---------|-----------------------------|-------------|---------------------|-----------|------------|
+| **US** | **Tarea**                                               | **TID** | **Descripción de la tarea**                                              | **Detalle**                                                                 | **Horas estimadas** | **Autor**       | **Estado** |
+|--------|---------------------------------------------------------|---------|--------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------|-----------------|------------|
+| 8      | Crear formulario de emociones                           | T001    | UI para ingresar emociones del paciente                                 | Campos: emoción, fecha, observaciones                                      | 5                   |  Sihuar  |      Done      |
+|        | Almacenar emociones en backend                          | T002    | Enviar datos a fake API                                                  | POST usando Axios                                                           | 6                   | Sihuar  |    Done        |
+|        | Mostrar feedback visual                                 | T003    | Mostrar confirmación de guardado o error                                | Uso de PrimeToast                                                           | 4                   |  Sihuar  |     Done       |
+| 9      | Crear formulario de indicadores biológicos              | T004    | UI para registrar funciones: sueño, apetito, etc.                        | Uso de sliders/selects y fecha                                              | 6                   |  Sihuar  |    Done        |
+|        | Enviar indicadores al backend                           | T005    | Conexión a fake API                                                      | Validaciones mínimas                                                        | 5                   | Jhomar   |      Done      |
+| 10     | Crear vista para modificar acceso de paciente           | T006    | Formulario de edición de credenciales                                   | Email, contraseña (solo editable por profesional)                          | 6                   |  Jhomar   |      Done      |
+|        | Validar datos de acceso                                 | T007    | Validaciones de email y contraseña                                      | Regex y condiciones mínimas                                                 | 4                   |  Jhomar    |     Done       |
+| 11     | Crear vista de perfil editable del profesional          | T008    | Formulario con nombre, especialidad, contacto                           | Editable por el propio profesional                                          | 5                   | Sihuar    |     Done       |
+|        | Guardar datos personales en backend                     | T009    | PUT/PATCH a fake API                                                     | Feedback visual                                                             | 4                   |  Todos  |    Done        |
+| 12     | Implementar vista de login para paciente                | T010    | Formulario de login con email y contraseña                              | Con validaciones básicas y conexión a fake API                             | 6                   |  Sihuar |       Done     |
+|        | Mostrar errores de autenticación                        | T011    | Notificaciones en caso de error en credenciales                         | PrimeToast y control visual                                                 | 4                   | Jhomar    |     Done       |
+| 13     | Crear login para profesional                            | T012    | Similar al login de paciente, pero redirige a otra vista                | Validaciones y fake API                                                     | 6                   | Jhomar   |    Done        |
+|        | Mostrar errores de autenticación                        | T013    | Feedback visual                                                          | Mensaje de error                                                            | 4                   | Sihuar   |      Done      |
+| 14     | Crear formulario para registrar datos del paciente      | T014    | Campos: nombre, edad, género, contacto                                  | Validación de campos                                                        | 6                   | Yair  |      Done      |
+|        | Guardar datos del paciente                              | T015    | POST a fake API                                                          | PrimeVue + Axios                                                            | 5                   | Jhomar   |     Done       |
+| 15     | Crear formulario para registrar medicamentos            | T016    | Campos: nombre del medicamento, dosis, frecuencia, duración             | Validaciones mínimas                                                        | 6                   | Ario    |      Done      |
+|        | Enviar medicamentos al backend                          | T017    | POST a fake API                                                          | Mostrar feedback de éxito o error                                           | 5                   |   Jhomar  |     Done       |
+| 16     | Crear formulario para registrar historial del paciente  | T018    | Campos como enfermedades previas, antecedentes familiares, etc.         | TextArea o inputs                                                           | 6                   | Todos  |      Done      |
+|        | Guardar historial en backend                            | T019    | POST usando Axios                                                        | Confirmación en pantalla                                                    | 5                   | Jhomar   |     Done       |
+| 17     | Crear vista con gráficos de estadísticas biológicas     | T020    | Mostrar datos en gráficos (lineal o circular)                           | Chart.js o PrimeVue Chart                                                   | 7                   | Sihuar    |      Done      |
+|        | Obtener datos del backend                               | T021    | GET desde fake API                                                       | Normalización de datos                                                      | 5                   |  Jhomar  |     Done       |
+|        | Crear formulario de actualización de apuntes terapéuticos| T028   | Campo de texto para notas terapéuticas                                  | Rich Text opcional                                                          | 6                   | Jhomar   |      Done      |
+|        | Enviar notas al backend                                 | T029    | POST o PUT a fake API                                                    | Confirmación y validaciones                                                 | 4                   | Sihuar   |     Done       |
+| 18     | Crear vista con estados de ánimo del paciente           | T022    | Listar registros emocionales en orden cronológico                       | Vista tipo timeline                                                         | 6                   |  Jhomar  |      Done      |
+|        | Conexión con backend                                    | T023    | GET desde fake API                                                       | Manejo de carga y errores                                                   | 5                   |  Sihuar   |     Done       |
+|        | Crear inicio de sesión para pacientes                   | T030    | Similar a US06 pero con otro endpoint/flujo                             | Formulario + validación                                                     | 5                   |  Sihuar   |      Done      |
+|        | Conexión con backend para login                         | T031    | POST a fake API + respuesta                                              | Control de errores                                                          | 4                   | Sihuar  |     Done       |
+| 19     | Crear vista con consumo de medicamentos                 | T024    | Mostrar nombre, dosis, frecuencia y cumplimiento                        | Listado simple o tabla                                                      | 5                   | Diego    |     Done       |
+|        | Obtener datos del backend                               | T025    | GET desde fake API                                                       | Feedback visual                                                             | 4                   | Sihuar   |    Done        |
+|        | Implementar DELETE de paciente en API RESTful           | T032    | Lógica y endpoint para eliminar registros                               | Simular con JSON server o fake backend                                     | 6                   |  Todos  |     Done       |
+| 20     | Crear formulario de actualización de dosis              | T026    | Permitir editar dosis y frecuencia de medicamentos                      | Campos editables + validación                                               | 6                   |  Joel   |    Done        |
+|        | Enviar cambios al backend                               | T027    | PUT/PATCH a fake API                                                     | Confirmación de cambios                                                     | 5                   |  Sihuar   |    Done        |
+|        | Implementar DELETE de profesional en API RESTful        | T033    | Lógica y endpoint para eliminar profesionales                           | Simulación en backend                                                       | 6                   | Todos   |    Done        |
 
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
