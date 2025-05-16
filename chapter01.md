@@ -4,7 +4,7 @@
 
 ### 1.1.1. Descripción de la Startup
 
-PsyMed es una plataforma web creada para optimizar la gestión del monitorio del estado de los pacientes en centros psiquiátricos. La plataforma permite la comunicación de manera continua entre los pacientes y sus psiquiatras, permitiendo un monitoreo completo del progreso de los tratamientos. Además, brindar una sistema que gestione las citas y notas clínicas. PsyMed busca mejorar la calidad de la atención de los usuarios proporcionandoles herramientas que permitan a los psiquiatras, poder mantenerse conectados con sus pacientes de manera efectiva y con información actualizada de manera constante.
+PsyMed es una plataforma web creada para optimizar la gestión del monitorio del estado de los pacientes en centros psiquiátricos. La plataforma permite la comunicación de manera continua entre los pacientes y sus profesionales de salud mentals, permitiendo un monitoreo completo del progreso de los tratamientos. Además, brindar una sistema que gestione las citas y notas clínicas. PsyMed busca mejorar la calidad de la atención de los usuarios proporcionandoles herramientas que permitan a los profesionales de salud mentals, poder mantenerse conectados con sus pacientes de manera efectiva y con información actualizada de manera constante.
 
 <table>
     <thead>
@@ -16,8 +16,8 @@ PsyMed es una plataforma web creada para optimizar la gestión del monitorio del
     </thead>
     <tbody>
       <tr>
-        <th>Brindan a los psiquiatras una plataforma optima para el seguimiento de los tratamientos personalizado de los pacientes, proporcionandoles una gestión eficiente de la información de los mismos.</th>
-        <th>Ser la principal plataforma de gestión de datos de pacientes optimizadas para el uso de los psiquiatras.</th>
+        <th>Brindan a los profesionales de salud mentals una plataforma optima para el seguimiento de los tratamientos personalizado de los pacientes, proporcionandoles una gestión eficiente de la información de los mismos.</th>
+        <th>Ser la principal plataforma de gestión de datos de pacientes optimizadas para el uso de los profesionales de salud mentals.</th>
         <th>
           Confidencialidad: Garantizar a los clientes de la protección de los datos proporcionados.
           Innovación: Mejorar el servicio continuamente para proporcionar una plataforma actualizada.
@@ -79,7 +79,7 @@ Para el análisis de los antecedentes y la problemática, se utilizara la técni
 <table>
     <tr>
         <td> Who (Quiénes) </td>
-        <td>El problema afecta a los psiquiatras, pacientes con trastornos mentales, y al sistema de salud en general.</td>
+        <td>El problema afecta a los profesionales de salud mentals, pacientes con trastornos mentales, y al sistema de salud en general.</td>
     </tr>
     <tr>
         <td> What (Qué) </td>
@@ -109,7 +109,7 @@ Para el análisis de los antecedentes y la problemática, se utilizara la técni
 
 Con esto, determinamos nuestra problemática:
 
-El sistema de salud mental en el Perú actualmente sufre de una dificil manejo de la gestión de los pacientes a causa del incremento de los mismos por la limitación de los sistemas usados por los psiquiatras. El aumento de la demanda de atención en problemas mentales generado por los diferentes trastornos como la depresión, ha provocado que la gestion de las citas y el control del estado de los pacientes no se pueda llevar de manera eficiente por los psiquiatras.
+El sistema de salud mental en el Perú actualmente sufre de una dificil manejo de la gestión de los pacientes a causa del incremento de los mismos por la limitación de los sistemas usados por los profesionales de salud mentals. El aumento de la demanda de atención en problemas mentales generado por los diferentes trastornos como la depresión, ha provocado que la gestion de las citas y el control del estado de los pacientes no se pueda llevar de manera eficiente por los profesionales de salud mentals.
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
@@ -173,7 +173,7 @@ Que la funcionalidad de gestión de citas no se integre correctamente con el res
 User Assumptions:
 
 **¿Quién es el usuario?**
-    - Los usuarios son profesionales de la salud mental, como psiquiatras y psicólogos, que necesitan gestionar la información de sus pacientes de manera eficiente.
+    - Los usuarios son profesionales de la salud mental, como profesionales de salud mentals y psicólogos, que necesitan gestionar la información de sus pacientes de manera eficiente.
 
 **¿Dónde encaja nuestro producto en su trabajo o vida?**
     - Nuestro producto encaja en su trabajo diario, ayudando en la gestión de citas, seguimiento de tratamientos y acceso a datos clínicos.
@@ -201,7 +201,7 @@ User Assumptions:
 
 User Outcomes:
 
-- **Acceso a Asistencia Especializada:** Los usuarios, tanto psiquiatras como otros profesionales de la salud mental, buscan un acceso fácil y rápido a herramientas que les permitan gestionar de manera eficiente la información de sus pacientes. Este outcome se centra en la capacidad de los usuarios para acceder a una plataforma integrada que optimice la organización de citas, notas clínicas y tratamientos, lo que les proporciona confianza y apoyo en la prestación de un cuidado de calidad.
+- **Acceso a Asistencia Especializada:** Los usuarios, tanto profesionales de salud mentals como otros profesionales de la salud mental, buscan un acceso fácil y rápido a herramientas que les permitan gestionar de manera eficiente la información de sus pacientes. Este outcome se centra en la capacidad de los usuarios para acceder a una plataforma integrada que optimice la organización de citas, notas clínicas y tratamientos, lo que les proporciona confianza y apoyo en la prestación de un cuidado de calidad.
 
 - **Mejora en la Atención al Paciente:** Para los pacientes, el outcome deseado es recibir una atención más organizada y eficiente, facilitada por una plataforma que centraliza toda la información relevante sobre su tratamiento. Esto incluye el seguimiento de citas, acceso a su historial clínico, y una comunicación más efectiva con sus proveedores de salud mental. El éxito se mide por la satisfacción del paciente y la mejora en la calidad del cuidado recibido.
 
@@ -209,11 +209,11 @@ User Outcomes:
 
 Business Outcomes:
 
-- **Desarrollo de los Especialistas en su Área:** Se estima un ingreso mediano de nuevos usuarios durante el primer mes después del lanzamiento de la plataforma. Al proporcionar herramientas especializadas en la gestión de la información de pacientes con trastornos mentales, se espera que la plataforma permita a los psiquiatras crecer gracias a una mejor organización de las citas médicas, tratamientos y el estado de los pacientes, ya que tendrán una mejor comprensión del área de una manera más cómoda.
+- **Desarrollo de los Especialistas en su Área:** Se estima un ingreso mediano de nuevos usuarios durante el primer mes después del lanzamiento de la plataforma. Al proporcionar herramientas especializadas en la gestión de la información de pacientes con trastornos mentales, se espera que la plataforma permita a los profesionales de salud mentals crecer gracias a una mejor organización de las citas médicas, tratamientos y el estado de los pacientes, ya que tendrán una mejor comprensión del área de una manera más cómoda.
 
 - **Generación de Ingresos Sostenibles:** Se espera que las instituciones de salud mental y profesionales independientes que utilicen la versión gratuita de la plataforma se conviertan en suscriptores de pago. Este éxito se medirá a través de la tasa de conversión de usuarios gratuitos a usuarios pagos y por el aumento en los ingresos recurrentes mensuales. La satisfacción del usuario y la retención de suscripciones a largo plazo serán indicadores clave para evaluar la sostenibilidad financiera de la plataforma.
 
-- **Impacto Positivo en la Salud Mental:** Se estima que el uso de la plataforma reduzca la carga administrativa de los psiquiatras, esto será mediante el uso de encuestas de usuario y estudios de tiempo dedicados a tareas administrativas antes y después de la adopción de la plataforma. Además, se busca que los pacientes tratados a través de la plataforma reporten mejoras en la satisfacción con la atención recibida, lo que se evaluará mediante encuestas periódicas a los pacientes.
+- **Impacto Positivo en la Salud Mental:** Se estima que el uso de la plataforma reduzca la carga administrativa de los profesionales de salud mentals, esto será mediante el uso de encuestas de usuario y estudios de tiempo dedicados a tareas administrativas antes y después de la adopción de la plataforma. Además, se busca que los pacientes tratados a través de la plataforma reporten mejoras en la satisfacción con la atención recibida, lo que se evaluará mediante encuestas periódicas a los pacientes.
 
 Features Assumptions:
 - Acceso a Herramientas de Gestión Especializadas:
@@ -221,18 +221,18 @@ Features Assumptions:
     - Historial Clínico Accesible: Desarrollar una funcionalidad que permita a los profesionales de la salud mental acceder de manera rápida y segura al historial clínico completo de los pacientes, garantizando que toda la información relevante esté disponible durante las consultas.
 
 - Mejora en la Atención al Paciente:
-    - Portal de Pacientes: Crear un portal dedicado para los pacientes donde puedan revisar su historial, seguir sus tratamientos, y comunicarse con sus psiquiatras y otros profesionales de manera segura. Este portal incluirá recordatorios de citas y acceso a recursos educativos sobre su salud mental.
+    - Portal de Pacientes: Crear un portal dedicado para los pacientes donde puedan revisar su historial, seguir sus tratamientos, y comunicarse con sus profesionales de salud mentals y otros profesionales de manera segura. Este portal incluirá recordatorios de citas y acceso a recursos educativos sobre su salud mental.
     - Encuestas de Satisfacción: Implementar encuestas automatizadas que se envíen a los pacientes después de las consultas o tratamientos, permitiendo a los profesionales de la salud mental recopilar retroalimentación directa y mejorar la calidad de la atención.
 
 - Colaboración y Coordinación Profesional:
-    - Plataforma de Colaboración Multidisciplinaria: Desarrollar una herramienta de colaboración que permita a psiquiatras, psicólogos, y otros profesionales de la salud mental compartir notas, discutir casos, y coordinar tratamientos de manera integrada. Esta herramienta facilitará un enfoque de tratamiento más cohesivo y efectivo para los pacientes.
+    - Plataforma de Colaboración Multidisciplinaria: Desarrollar una herramienta de colaboración que permita a profesionales de salud mentals, psicólogos, y otros profesionales de la salud mental compartir notas, discutir casos, y coordinar tratamientos de manera integrada. Esta herramienta facilitará un enfoque de tratamiento más cohesivo y efectivo para los pacientes.
     - Panel de Control para Seguimiento: Crear un panel de control que permita a los profesionales monitorear el progreso de los pacientes en tiempo real, facilitando la coordinación y el seguimiento de los tratamientos multidisciplinarios.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-1. **Creemos que** retendremos a una mayor cantidad de usuarios **si** la plataforma les proporciona soluciones más eficientes al manejo de la información del tratamiento y de las citas de los pacientes para aumentar la eficiencia en la realización de estas tareas tanto a los psiquiatras como a los pacientes que deben completar estas actividades. <br><br>
-2. **Creemos que** obtendremos una mejor valoración positiva por parte de los usuarios **si** proporcionamos a los psiquiatras, las herramientas necesarias para brindar una mejor gestión y atención de la información de los pacientes. **Al proporcionarles**, una plataforma con una interfaz cómoda visualmente para el uso intuitivo de las características de la aplicación web. <br><br>
-3. **Creemos que** posicionaremos nuestra aplicación web en el mercado **si** proporcionamos características únicas que sean eficaces en el manejo de las citas y tratamientos que crean los psiquiatras para el control del estado de los pacientes brindándoles una experiencia de mayor calidad a diferencia de otras plataformas. <br><br>
+1. **Creemos que** retendremos a una mayor cantidad de usuarios **si** la plataforma les proporciona soluciones más eficientes al manejo de la información del tratamiento y de las citas de los pacientes para aumentar la eficiencia en la realización de estas tareas tanto a los profesionales de salud mentals como a los pacientes que deben completar estas actividades. <br><br>
+2. **Creemos que** obtendremos una mejor valoración positiva por parte de los usuarios **si** proporcionamos a los profesionales de salud mentals, las herramientas necesarias para brindar una mejor gestión y atención de la información de los pacientes. **Al proporcionarles**, una plataforma con una interfaz cómoda visualmente para el uso intuitivo de las características de la aplicación web. <br><br>
+3. **Creemos que** posicionaremos nuestra aplicación web en el mercado **si** proporcionamos características únicas que sean eficaces en el manejo de las citas y tratamientos que crean los profesionales de salud mentals para el control del estado de los pacientes brindándoles una experiencia de mayor calidad a diferencia de otras plataformas. <br><br>
 4. **Creemos que** aumentaremos la satisfacción del usuario en su experiencia en el uso de la plataforma **si** los usuarios que utilicen todas nuestras funcionalidades proporcionadas por la plataforma, observen una disminución en el tiempo de la elaboración de tareas, citas médicas y la información de los pacientes. Además, de la comodidad que genera el uso de la aplicación en el día a día. <br><br>
 
 #### 1.2.2.4. Lean UX Canvas
@@ -243,20 +243,20 @@ Features Assumptions:
 
 Según nuestro análisis, hemos determinado 2 segmentos objetivos a los que va dirigido nuestra plataforma.
 
-- Psiquiatras:
+- profesionales de salud mentals:
     - Personal médico dirigido a la salud mental que trabaja en centros Profesionales de Salud Mental.
     - Este segmento busca monitorear el estado de sus pacientes con el objetivo de brindarles una buena atención y de llevar una buena gestión en el proceso de sus tratamientos.
 - Pacientes:
     - Personas que sufren de trastornos mentales cuyo rango de edad es desde niños a personas de la tercera edad.
-    - Estas personas requieren de un sistema que pueda ayudarlos a seguir de manera adecuada el tratamiento. Además, necesitan mantener comunicación con los psiquiatras mediante citas.
+    - Estas personas requieren de un sistema que pueda ayudarlos a seguir de manera adecuada el tratamiento. Además, necesitan mantener comunicación con los profesionales de salud mentals mediante citas.
 
 ## 1.3. Segmentos Objetivos
 
 Según nuestro análisis, hemos determinado 2 segmentos objetivos a los que va dirigido nuestra plataforma.
 
-- Psiquiatras: 
+- profesionales de salud mentals: 
     - Personal médico dirigido a la salud mental que trabaja en centros Profesionales de Salud Mental. 
     - Este segmento busca monitorear el estado de sus pacientes con el objetivo de brindarles una buena atención y de llevar una buena gestión en el proceso de sus tratamientos. 
 - Pacientes: 
     - Personas que sufren de trastornos mentales cuyo rango de edad es desde niños a personas de la tercera edad.
-    - Estas personas requieren de un sistema que pueda ayudarlos a seguir de manera adecuada el tratamiento. Además, necesitan mantener comunicación con los psiquiatras mediante citas.
+    - Estas personas requieren de un sistema que pueda ayudarlos a seguir de manera adecuada el tratamiento. Además, necesitan mantener comunicación con los profesionales de salud mentals mediante citas.
