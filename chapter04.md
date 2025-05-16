@@ -5,7 +5,7 @@ Con este propósito, hemos optado por utilizar elementos visuales que sean amiga
 
 ### 4.1.1. General Style Guidelines
 Nuestra paleta de colores se ha seleccionado para proporcionar un entorno digital que apoye la salud mental y el bienestar, 
-tanto para los psiquiatras como para sus pacientes. Buscamos en la plataforma un espacio donde la confianza, 
+tanto para los profesionales de salud mentals como para sus pacientes. Buscamos en la plataforma un espacio donde la confianza, 
 la claridad y la seguridad sean primordiales, asegurando que la interacción entre profesionales y pacientes sea efectiva. 
 Este enfoque se refleja en la selección de colores, que buscan transmitir calma, confiabilidad y profesionalismo. A continuación, se presenta una breve descripción de los colores que se utilizarán en nuestra aplicación:
 
@@ -129,14 +129,14 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 **Landing Page:**
 - Title: PsyMed
 - Meta Tags: Para la búsqueda eficiente de nuestra plataforma usamos las siguientes tags:
-    - Description: Plataforma de gestión médica en salud mental para psiquiatras y pacientes.
-    - Keywords: Psiquiatras, Plataforma, Tratamientos mentales, Pacientes, Salud mental, Citas médicas, Psicología, Psiquiatría, Gestión médica
+    - Description: Plataforma de gestión médica en salud mental para profesionales de salud mentals y pacientes.
+    - Keywords: profesionales de salud mentals, Plataforma, Tratamientos mentales, Pacientes, Salud mental, Citas médicas, Psicología, Psiquiatría, Gestión médica
     - Author: OpenGG
 
 ### 4.2.4. Searching Systems
 
-**Web Applications:** Los usuarios que estén registrados y utilice uno de nuestros planes en la plataforma web, tendrá acceso a diferentes tipos de búsqueda que les permitirá tanto a los pacientes como a los psiquiatras, buscar la información que necesiten.
-- Psiquiatras:
+**Web Applications:** Los usuarios que estén registrados y utilice uno de nuestros planes en la plataforma web, tendrá acceso a diferentes tipos de búsqueda que les permitirá tanto a los pacientes como a los profesionales de salud mentals, buscar la información que necesiten.
+- profesionales de salud mentals:
     - Filtrado de búsquedas por fechas: Estas incluyen
         - Búsqueda de notas
         - Búsqueda de citas programadas
@@ -168,8 +168,8 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ![Wireframe del Login](assets/wireframes/LOGIN.png)
 **Wireframe del Cambio de Contraseña:**
 ![Wireframe del Cambio de Contraseña](assets/wireframes/Cambio_contraseña.png)
-**Wireframe del Home Psiquiatras**
-![Wireframe del Home Psiquiatras](assets/wireframes/Psiquiatras_Home.png)
+**Wireframe del Home profesionales de salud mentals**
+![Wireframe del Home profesionales de salud mentals](assets/wireframes/profesionales de salud mentals_Home.png)
 **Wireframe del Perfil**
 ![Wireframe del Perfil](assets/wireframes/Perfil.png)
 **Wireframe del Agregar Pacientes**
@@ -177,7 +177,7 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 **Wireframe del Configuracion de Pacientes**
 ![Wireframe del Configuracion de Pacientes](assets/wireframes/Agregar_paciente.png)
 **Wireframe del Datos del Paciente**
-![Wireframe del Datos del Paciente](assets/wireframes/Psiquiatra_config_paciente.png)
+![Wireframe del Datos del Paciente](assets/wireframes/profesionales de salud mental_config_paciente.png)
 **Wireframe del Test Interdiario**
 ![Wireframe del Test Interdiario](assets/wireframes/datos_paciente.png)
 **Wireframe del Home paciente**
@@ -195,8 +195,8 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ![Mock-up del Login](assets/Mockups/LOGIN.png)
 **Mock-up del Cambio de Contraseña:**
 ![Mock-up del Cambio de Contraseña](assets/Mockups/Cambio_Contraseña.png)
-**Mock-up del Home Psiquiatras**
-![Mock-up del Home Psiquiatras](assets/Mockups/Dashboard.png)
+**Mock-up del Home profesionales de salud mentals**
+![Mock-up del Home profesionales de salud mentals](assets/Mockups/Dashboard.png)
 **Mock-up del Perfil**
 ![Mock-up del Perfil](assets/Mockups/Perfil.png)
 **Mock-up del Agregar Pacientes**
