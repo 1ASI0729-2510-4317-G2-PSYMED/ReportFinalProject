@@ -72,7 +72,13 @@
             del informe, Se realizo un acuerdo para el desarrollo 
             de nuesta aplicación</th>
         </tr>
-        
+        <tr>
+          <th>V2.5</th>
+            <th>09.05.25</th>
+            <th>G2 OpenGG</th>
+            <th>Se corrigieron los errores presentados en los capitulos
+                I, II, III, IV y V.</th>
+        </tr>
     </thead>
     <tbody></tbody>
 </table>
