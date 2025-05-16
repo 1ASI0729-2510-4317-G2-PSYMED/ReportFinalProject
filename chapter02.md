@@ -389,7 +389,7 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 
 Para desarrollar el Empathy Map, hemos basado nuestra información en los datos recopilados de nuestros dos User Personas, quienes representan a nuestro público objetivo. Este mapa nos ofrece una visión más profunda de las necesidades, pensamientos, emociones y acciones de los usuarios, lo que nos permite crear soluciones más ajustadas a sus expectativas y vivencias reales.
 
-### Segmento 1: Psicologo
+### Segmento 1: Profesional de Salud Mental
 
 <p align="center">
   <img src="assets/chapter02/psicologo.png"  style="width:800px; height:auto;">
@@ -402,7 +402,7 @@ Para desarrollar el Empathy Map, hemos basado nuestra información en los datos 
 </p>
 
 ## 2.3.5 As-is Scenario Mapping
-- **Segmento objetivo:** Psicologo
+- **Segmento objetivo:** Profesional de salud mental
 
 <p align="center">
   <img src="assets/chapter02/AS-IS PsicologoAS-IS Psicologo.png"  style="width:800px; height:auto;">
