@@ -244,7 +244,7 @@ Features Assumptions:
 Según nuestro análisis, hemos determinado 2 segmentos objetivos a los que va dirigido nuestra plataforma.
 
 - Psiquiatras:
-    - Personal médico dirigido a la salud mental que trabaja en centros medicos.
+    - Personal médico dirigido a la salud mental que trabaja en centros Profesionales de Salud Mental.
     - Este segmento busca monitorear el estado de sus pacientes con el objetivo de brindarles una buena atención y de llevar una buena gestión en el proceso de sus tratamientos.
 - Pacientes:
     - Personas que sufren de trastornos mentales cuyo rango de edad es desde niños a personas de la tercera edad.
@@ -255,7 +255,7 @@ Según nuestro análisis, hemos determinado 2 segmentos objetivos a los que va d
 Según nuestro análisis, hemos determinado 2 segmentos objetivos a los que va dirigido nuestra plataforma.
 
 - Psiquiatras: 
-    - Personal médico dirigido a la salud mental que trabaja en centros medicos. 
+    - Personal médico dirigido a la salud mental que trabaja en centros Profesionales de Salud Mental. 
     - Este segmento busca monitorear el estado de sus pacientes con el objetivo de brindarles una buena atención y de llevar una buena gestión en el proceso de sus tratamientos. 
 - Pacientes: 
     - Personas que sufren de trastornos mentales cuyo rango de edad es desde niños a personas de la tercera edad.
