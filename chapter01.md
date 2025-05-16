@@ -114,27 +114,15 @@ El sistema de salud mental en el Perú actualmente sufre de una dificil manejo d
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Se identificará los siguientes Problem Statements a partir de la información recopilada.
+El estado actual de la gestión de pacientes en centros de salud mental en el Perú se ha centrado principalmente en atender casos de pacientes mediante sistemas fragmentados, herramientas poco especializadas y una alta carga administrativa para los profesionales.
 
-- Problem Statement 1: Gestión de información médica no centralizada: Las herramientas tecnológicas actuales en instituciones de salud mental no cumplen exitosamente con las necesidades específicas de gestión, lo que provoca una mala organización en la información de los pacientes.
-    - Solution: Desarrollar una plataforma centralizada que integre todas las funcionalidades necesarias para la gestión de datos clínicos en un solo lugar.
+Lo que los productos y servicios existentes no logran abordar es la necesidad de un sistema digital unificado que permita monitorear de forma continua el estado de los pacientes, facilite la colaboración entre profesionales, y automatice procesos clave como las citas y el registro clínico.
 
-- Problem Statement 2: Dificultades en la Organización y Acceso a Información durante las Consultas: Los profesionales de la salud mental enfrentan complicaciones para organizar y acceder a información relevante durante las consultas.
-    - Solution: Implementar un sistema intuitivo de búsqueda y filtrado de información dentro de la plataforma, permitiendo que los profesionales accedan rápidamente a la información más relevante para cada consulta.
+Nuestro producto, PsyMed, abordará esta brecha mediante una plataforma web centralizada que conecta a psiquiatras con sus pacientes, optimiza el registro clínico, y mejora la gestión de citas y seguimiento terapéutico.
 
-- Problem Statement 3: Problemas en la Programación y Gestión Eficiente de Citas: Las herramientas actuales dificultan la programación y gestión eficiente de citas.
-    - Solution: Incorporar un módulo de gestión de citas que permita a los profesionales y pacientes programar, modificar y cancelar citas fácilmente.
+Nuestro enfoque inicial se centrará en psiquiatras de instituciones públicas y privadas que enfrentan una alta carga de pacientes y dificultades para dar seguimiento adecuado a sus tratamientos.
 
-- Problem Statement 4: Carga Administrativa Adicional para los Profesionales de la Salud Mental: La situación actual genera una carga administrativa significativa para los profesionales de la salud mental.
-    - Solution: Automatizar procesos administrativos dentro de la plataforma, como la generación de informes, la actualización de registros y la gestión de citas.
-
-- Problem Statement 5: Riesgo Incrementado de Errores en el Manejo de la Información Clínica: La fragmentación y las dificultades mencionadas aumentan el riesgo de cometer errores en el manejo de la información clínica.
-
-    - Solution: Implementar mecanismos de verificación y validación de datos dentro de la plataforma, además de controles de calidad automáticos para reducir la posibilidad de errores. También se podría incluir un sistema de auditoría que permita rastrear cambios en la información clínica para garantizar la precisión y seguridad de los datos.
-
-- Problem Statement 6: Limitación en la Capacidad de Ofrecer un Enfoque de Tratamiento Multidisciplinario: Los problemas actuales limitan la capacidad de los profesionales de salud mental para ofrecer un enfoque de tratamiento multidisciplinario eficaz.
-
-    - Solution: Desarrollar funcionalidades colaborativas dentro de la plataforma que permitan a los diferentes profesionales de la salud mental acceder y compartir información de manera segura y en tiempo real.
+Sabremos que hemos tenido éxito cuando observemos una mayor eficiencia en el seguimiento de pacientes, reducción en el tiempo dedicado a tareas administrativas, y una mejora en la continuidad del tratamiento según lo percibido por los profesionales.
 
 #### 1.2.2.2. Lean UX Assumptions
 
