@@ -269,7 +269,7 @@ Se procede a recopilar las estadísticas de las respuestas de los
 entrevistados para representarlas mediante gráficos proporcionados
 por la herramienta, Google Forms.
 
-- **Segmento 1: Medicos de la salud mental  **
+- **Segmento 1: Profesionales de Salud Mental de la salud mental  **
 
 Según los datos recolectados para el análisis de nuestro segmento de profesionales de la salud, se ha identificado que una mayoría significativa se encuentra en el rango de edad entre 18 y 30 años, con un nivel educativo universitario o técnico en curso.
 En términos de género, hay una ligera mayoría femenina, y un pequeño de los entrevistados reside fuera de Lima Metropolitana, aunque la mayoría cuenta con acceso a servicios digitales.
@@ -341,7 +341,7 @@ Las coincidencias entre los segmentos destacan la importancia de una solución i
 
 El User Journey Mapping se desarrolló para comprender la experiencia de los usuarios al interactuar con nuestra plataforma. Este mapeo detalla cada paso que el usuario realiza, los obstáculos que puede encontrar, y las emociones que surgen en el proceso. Así, nos ayuda a identificar oportunidades para mejorar la usabilidad y satisfacción del usuario.
 
-### Segmento 1: Medicos de la salud mental
+### Segmento 1: Profesionales de Salud Mental de la salud mental
 ![UJM Mental Medical](assets/UJMMedico.png)
 ### Segmento 2: Paciente
 ![UJM Patient](assets/UJMPaciente.png)
