@@ -221,6 +221,9 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ![User Flow Mockups](assets/Wireflow_MockUps_app.png)
 ## 4.5. Web Applications Prototyping
  [Link del prototipe](https://marvelapp.com/prototype/8j2efjg/screen/95484834)
+
+![WEB](assets/chapter04/Group 53.png)
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
