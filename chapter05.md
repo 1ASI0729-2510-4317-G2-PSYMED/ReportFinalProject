@@ -549,11 +549,11 @@ Finalmente, escribimos el nombre de nuestro dominio y lo guardamos. Con ello, se
 En esta parte, se mostrará la participación de los integrantes del grupo para la elaboración de este sprint 2:
 
 Report:
-<img src="./assets/collabfront-1.PNG" alt="deploy 5">
+<img src="./assets/collabfront-1.png" alt="report front 1">
 
 Frontend:
 
-<img src="./assets/collabfront-2.PNG" alt="deploy 5">
+<img src="./assets/collabfront-2.png" alt="deploy front 1">
 
 
 # Conclusiones
