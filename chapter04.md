@@ -184,8 +184,6 @@ En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que i
 ![Wireframe del Home paciente](assets/wireframes/Home_Pacient.png)
 **Wireframe del Datos**
 ![Wireframe del Datos](assets/wireframes/OpcionesPacientes.png)
-### 4.4.2. Web Applications Wireflow Diagrams
-![wireflow](assets/Wireflow_wireframe_app.png)
 ### 4.4.2. Web Applications Mock-ups
 **Mock-up del Home:**
 ![Mock-up del Home](assets/Mockups/HOME.png)
