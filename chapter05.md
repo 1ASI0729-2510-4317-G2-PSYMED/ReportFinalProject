@@ -426,10 +426,10 @@ Landing Page:
     </tr>
       <tr align="left">
         <td>
-            <b>Sprint 1 Velocity</b>
+            <b>Sprint 2 Velocity</b>
         </td>
         <td>
-            6
+            207
         </td>
     </tr>
        <tr align="left">
@@ -437,7 +437,7 @@ Landing Page:
             <b>Sum of Story Points</b>
         </td>
         <td>
-            6
+            37
         </td>
   </tr>
 </table>
