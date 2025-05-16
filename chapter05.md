@@ -493,12 +493,20 @@ Landing Page:
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 
+A continuación, se muestran los commits realizados en el repositorio para el Frontend, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio del Frontend en GitHub: <a href="https://github.com/1ASI0729-2510-4317-G2-OpenGG/OPGG-Frontend-Psymed.git">Enlace_Repositorio</a>
+
 
 | **Repository** | **Branch** | **Commit ID** | **Author** | **Time ago** |
 |----------------|------------|---------------|------------|--------------|
+| PSYMED         | login_dashboard | 4968d726d217727cad4d81e9c295ff04201979ef | Jhomar | 1 days ago |
+| PSYMED         | medications | b79444158bbbc84d5d8c7125c75aea316188042c | Ario | 1 days ago |
+| PSYMED         | formEntriesDates/Patients | 6ce1f12cc3206cf4e2b126950113701716d3fbe4 | Diego | 1 days ago |
+| PSYMED         | feature/patients-profile | 8cb583c123f94769edd1f62bb9003ec0538dc1dc | Yair | 1 days ago |
+| PSYMED         | develop | 3bf5755773f340fdb3df69372b2f70a8ae48cc9c | Sihuar | 1 days ago |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
-
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
