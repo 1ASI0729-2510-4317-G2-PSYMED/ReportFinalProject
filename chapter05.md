@@ -510,7 +510,16 @@ Repositorio del Frontend en GitHub: <a href="https://github.com/1ASI0729-2510-43
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-Para este primer Sprint, solo se implementa y despliega la Landing Page, por lo que no se utilizó endpoints.
+Durante el **Sprint 2**, el enfoque principal se centró en el desarrollo del **frontend** de la aplicación. En este ciclo se implementaron:
+
+- Todos los **componentes** de la interfaz de usuario.
+- Los **servicios** necesarios para la comunicación con los datos.
+- Integración con una **fake API** para simular operaciones reales dentro de la aplicación.
+
+Puedes acceder a nuestra fake API en el siguiente enlace:  
+[JSON Server - PsyMed](https://json-server-psymed.vercel.app/)
+
+<img src="./assets/json-image.PNG" alt="json server image">
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
