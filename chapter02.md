@@ -109,6 +109,45 @@ Esto nos permitirá demostrar el valor de PsyMed, mitigar riesgos y construir un
 Simultáneamente, abordaremos las amenazas del mercado y los posibles cambios regulatorios mediante prácticas rigurosas de cumplimiento y actualizaciones constantes en nuestras políticas de seguridad.
 Lo que reforzará la confianza de nuestros clientes y nos permitirá competir eficazmente frente a otras plataformas establecidas.
 
+# 2.2 Entrevistas
+### 2.2.1. Diseño de entrevistas.
+
+**Preguntas para el segmento de profesionales de la salud mental:**
+
+- **Preguntas Objetivas:**
+  - ¿Cuál es el navegador que más utilizas?
+  - ¿Ha pagado por herramientas que le ayuden a hacer un seguimiento de sus pacientes en el pasado? ¿Cuáles y por qué?
+  - Actualmente, ¿Cómo manejas la información de tus pacientes?
+  - ¿Qué tipo de información no se puede revelar a los pacientes y cuál sí está permitido?
+  - ¿Qué precio mensual o anual considerarías razonable para un servicio como este?
+    <br><br>
+- **Preguntas Subjetivas:**
+  - ¿Qué tan familiarizado está con el uso de plataformas digitales?
+  - ¿Cuál es el perfil de pacientes que usted atiende?
+  - ¿Qué dificultades tienes al atender a tus pacientes?
+  - ¿Qué factores determinan que un paciente busque ayuda psicológica y cuál es la diferencia con el manejo con un psiquiatra?
+  - ¿Cómo se lleva a cabo la evaluación de un paciente nuevo?
+  - ¿Cómo se determina un diagnóstico y cuánto tiempo toma?
+  - ¿Cómo se decide el plan de tratamiento para un paciente?
+  - ¿Qué tan importante es hacer un seguimiento del paciente?
+  - ¿Qué funciones crees que la plataforma deba tener además de las mencionadas?
+
+**Preguntas para el segmento de pacientes:**
+
+- **Preguntas Objetivas:**
+  - ¿Cuál es el navegador que más utilizas?
+  - ¿Qué herramienta usas más seguido? Tablets, celulares, laptops, smartwatch, etc.
+  - ¿Qué tan seguido interactúas con tu terapeuta, psicólogo o psiquiatra? (Sesiones, chats, llamadas, etc.)
+  - ¿Has utilizado alguna vez una plataforma digital para gestionar tus citas o tratamientos médicos? Si es así, ¿cómo fue tu experiencia? ¿Qué aspectos te resultaron más útiles o frustrantes?
+  - ¿Te sentirías cómodo utilizando una plataforma digital para interactuar con tu profesional de la salud mental?
+  - ¿Qué información te gustaría tener visible en la plataforma? Por ejemplo, citas, recordatorios de medicamentos, notas de las sesiones, etc.
+  - ¿Te gustaría poder comunicarte con tu profesional de salud mental a través de la plataforma? ¿Qué tipo de comunicación preferirías (mensajes, videollamadas, etc.)?
+    <br><br>
+- **Preguntas Subjetivas:**
+  - ¿Estás familiarizado con las plataformas digitales?
+  - ¿Cuándo y por qué motivo decidiste buscar ayuda profesional para tu salud mental?
+  - ¿Tienes alguna preocupación en cuanto a la privacidad y seguridad de tu información personal al usar una plataforma digital? ¿Qué te haría sentir más seguro al usarla?
+
 ### 2.2.2. Registro de entrevistas.
 
 **Segmento 1: Profesionales de la salud mental:**

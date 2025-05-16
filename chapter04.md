@@ -289,6 +289,6 @@ __PatientBiologicalAnalytic__: Clase que contiene el análisis mensual de las fu
 ### 4.8. Database Design
 ### 4.8.1 Database Diagram
 <p align="center">
-<img src="/assets/base_de_datos%20.png">
+<img src="assets/base_de_datos.png">
 </p>
 
